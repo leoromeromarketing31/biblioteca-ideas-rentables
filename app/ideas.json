@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "level": "NIVEL 1",
+    "category": "ADELGAZAMIENTO & FITNESS",
+    "icon": "💪",
+    "title": "Protocolo Cuerpo en 21 Días — Abdomen Definido sin Salir de Casa",
+    "description": "Son 21 rutinas guiadas de 15 minutos, una por día, diseñadas para activar el núcleo y quemar la grasa del abdomen sin equipos ni membresía de gimnasio. La dificultad sube de forma progresiva para que el cuerpo no se adapte, y viene con un calendario de seguimiento donde marcas cada sesión y ves tu avance real acumularse día a día.",
+    "promise": "Abdomen definido en 21 días, 15 minutos al día, en el piso de tu sala.",
+    "promiseDetail": "Abres la rutina del día, la haces en el espacio que tengas y la tachas. Sin gimnasio, sin equipo, sin excusas.",
+    "ads": [
+      "El problema con los abdominales no es la fuerza de voluntad. Es que nadie te dijo el orden correcto ni cuántos minutos de verdad necesitas. Este protocolo lo resuelve en 21 días, 15 minutos al día, desde el piso de tu sala.",
+      "Llevas semanas planeando empezar. Este protocolo tiene la rutina del día lista para cuando abras los ojos mañana. 15 minutos. Sin gimnasio. Sin repetir la misma rutina dos veces.",
+      "Abdomen definido no es un don genético. Es un protocolo de 21 días. Ya existe. Ya está listo. Solo falta que empieces mañana."
+    ],
+    "audience": [
+      "Quien quiere resultados en el abdomen pero no tiene tiempo ni quiere pagar gimnasio",
+      "Persona que empieza rutinas y las abandona a la semana porque no ve estructura clara",
+      "Adulto sedentario que quiere retomar el movimiento desde cero, en casa y sin complicaciones"
+    ],
+    "pains": [
+      "Sigue rutinas sueltas de YouTube sin saber si están en el orden correcto o si son suficientes",
+      "Empieza con motivación y abandona a los 4 días porque no tiene un plan claro que seguir",
+      "Siente que necesita equipos o membresía para ver resultados y lo usa como excusa para no empezar",
+      "Hace ejercicio de vez en cuando pero sin consistencia ni progresión, y nunca ve cambio"
+    ]
+  },
+  {
+    "id": 2,
+    "level": "NIVEL 1",
+    "category": "ADELGAZAMIENTO & FITNESS",
+    "icon": "🥗",
+    "title": "Bóveda de 52 Recetas Saludables con 5 Ingredientes o Menos",
+    "description": "Un manual de 52 recetas saludables completas, diseñadas con un máximo de 5 ingredientes comunes y accesibles. Cada receta incluye el paso a paso en menos de 10 líneas, la lista de ingredientes exacta y combinaciones pensadas para quien llega a casa cansado y necesita comer bien sin ponerse a buscar ni a pensar. Sin ingredientes exóticos, sin técnicas complicadas.",
+    "promise": "Cena saludable antes de que el delivery llegue, con 52 recetas de 5 ingredientes.",
+    "promiseDetail": "Abres el manual, tomas lo que hay en el refrigerador y pones comida real en la mesa en minutos. Sin decidir con hambre.",
+    "ads": [
+      "¿Ya abriste el refrigerador cansado y pediste delivery porque no sabías qué hacer? Este manual trae 52 recetas saludables con hasta 5 ingredientes para que eso no vuelva a pasar.",
+      "El secreto para comer mejor no es cocinar más. Es tener la receta lista cuando llega el hambre. 52 opciones con 5 ingredientes o menos. Nada raro, nada complicado.",
+      "Cada noche que decides con hambre, el delivery gana. 52 recetas saludables con ingredientes de supermercado. Una para cada semana del año, y seis de bonus."
+    ],
+    "audience": [
+      "Profesional con poco tiempo que quiere comer bien entre semana sin destinar horas a la cocina",
+      "Mamá o papá que necesita opciones rápidas y saludables para la familia sin recetas complicadas",
+      "Persona que quiere perder peso pero odia las dietas restrictivas y prefiere comida real y simple"
+    ],
+    "pains": [
+      "Llega cansado a casa y pide delivery porque pensar en qué cocinar le parece una tarea más",
+      "Cree que comer saludable exige ingredientes caros, muchos pasos y tiempo que no tiene",
+      "Guarda miles de recetas en Instagram y no hace ninguna cuando llega el momento real",
+      "Compra ingredientes con intención y los termina tirando porque nunca los usa todos"
+    ]
+  },
+  {
+    "id": 3,
+    "level": "NIVEL 1",
+    "category": "ADELGAZAMIENTO & FITNESS",
+    "icon": "📅",
+    "title": "Diario del Ayuno — Seguimiento Real de 30 Días para Ver el Cambio",
+    "description": "Un diario de 30 días diseñado para llevar el seguimiento del ayuno intermitente en un solo lugar: ventana de alimentación, peso, medidas, energía y evolución semanal. Se completa en menos de 3 minutos al día. Al terminar el mes tienes el registro visual de tu progreso, no una suposición de que algo cambió.",
+    "promise": "30 días de ayuno con seguimiento real, no con fe ciega.",
+    "promiseDetail": "Registras lo que comes, cuándo comes y cómo te sientes. Al final del mes el progreso está en el papel, no en tu memoria.",
+    "ads": [
+      "El ayuno intermitente funciona. El problema es que la mayoría lo practica sin registrar nada y abandona porque no sabe si avanza. Este diario cambia eso en 30 días.",
+      "Hacer ayuno sin seguimiento es como ahorrar sin ver el saldo. Puede que funcione, pero nunca sabes cuánto. Este diario muestra el número cada día.",
+      "El espejo miente en el día a día. Los registros no. 30 días de ayuno con seguimiento de peso, medidas y energía para ver el cambio que el espejo demora en mostrar."
+    ],
+    "audience": [
+      "Persona que ya probó el ayuno intermitente pero lo abandonó porque no veía resultados concretos",
+      "Quien practica ayuno de forma inconsistente y quiere instalarlo como hábito con estructura",
+      "Adulto que quiere perder peso sin contar calorías ni seguir dietas complejas"
+    ],
+    "pains": [
+      "Hace ayuno unos días, lo deja, lo retoma, y nunca sabe si realmente le está funcionando",
+      "No tiene forma de medir su progreso más allá de la balanza, que a veces sube y lo desmotiva",
+      "Abandona hábitos saludables porque no ve resultados rápidos y pierde la motivación",
+      "Siente que el ayuno debería dar más resultados pero no lleva registro de nada"
+    ]
+  },
+  {
+    "id": 4,
+    "level": "NIVEL 1",
+    "category": "CARRERA & LINKEDIN",
+    "icon": "💼",
+    "title": "Kit Exprés de CV + Carta de Presentación que Pasa el Filtro de Reclutadores",
+    "description": "Un pack de 10 plantillas de currículum y 5 de carta de presentación, todas editables en Canva y en Word, ajustadas al formato que los reclutadores de LatAm realmente leen. Incluye un manual de llenado que explica qué escribir en cada campo para que el CV no quede vacío de contenido donde más importa.",
+    "promise": "Tu CV listo en una tarde, con el formato que los reclutadores sí abren.",
+    "promiseDetail": "Abres la plantilla, cambias tus datos con el manual al lado y exportas. Sin pelear con márgenes ni inventar qué escribir.",
+    "ads": [
+      "El 80% de los CVs nunca los lee un humano. Los filtra un sistema. Este pack incluye las plantillas que pasan ese filtro y llegan a la pantalla del reclutador.",
+      "Si llevas semanas enviando CVs sin respuesta, el problema probablemente no es tu experiencia. Es el formato. Este kit lo soluciona esta tarde.",
+      "Armar un CV desde cero toma horas y el resultado suele verse casero. Este pack tiene 10 plantillas probadas. Tú solo cambias los datos y exportas."
+    ],
+    "audience": [
+      "Profesional en búsqueda activa que no consigue entrevistas a pesar de tener experiencia",
+      "Recién graduado que necesita un CV sólido para su primer proceso de selección formal",
+      "Persona que quiere cambiar de trabajo pero tiene un CV desactualizado o con formato anticuado"
+    ],
+    "pains": [
+      "Envía CVs hace semanas y no recibe respuesta, sin saber si el problema es el formato o el contenido",
+      "No sabe qué escribir en las secciones de habilidades o perfil profesional y las deja vacías o genéricas",
+      "Su CV actual tiene un diseño casero o desactualizado que proyecta lo contrario de lo que quiere comunicar",
+      "Pierde horas intentando darle formato en Word o Google Docs y el resultado nunca queda bien"
+    ]
+  },
+  {
+    "id": 5,
+    "level": "NIVEL 1",
+    "category": "CARRERA & LINKEDIN",
+    "icon": "🔥",
+    "title": "Reto de 7 Días para Construir tu Marca Personal en LinkedIn desde Cero",
+    "description": "Siete días de misiones diarias concretas para construir presencia real en LinkedIn: perfil optimizado para búsquedas, red activa y primer post con alcance. Cada misión viene con instrucciones exactas, checklist de verificación y plantillas de contenido listas para adaptar. Sin quedarse frente a la pantalla en blanco sin saber qué hacer.",
+    "promise": "LinkedIn listo, activo y generando oportunidades en 7 días.",
+    "promiseDetail": "Una misión por día. La haces, la tachas, avanzas. Al final de la semana tu perfil aparece en búsquedas y tu red te conoce.",
+    "ads": [
+      "El 90% de los profesionales tiene LinkedIn porque sabe que debería usarlo. El 10% lo usa bien y recibe ofertas sin buscarlas. Este reto pone al otro 90% a jugar en serio en 7 días.",
+      "Tener el perfil de LinkedIn no es tener presencia. Este reto de 7 días convierte un perfil abandonado en una herramienta que trabaja sola mientras duermes.",
+      "Reclutadores buscan en LinkedIn todos los días. Si tu perfil no está optimizado, no apareces. Este reto lo soluciona en una semana con misiones de 20 minutos al día."
+    ],
+    "audience": [
+      "Profesional que tiene LinkedIn pero no lo usa y siente que se pierde oportunidades por eso",
+      "Persona que quiere posicionarse en su industria pero no sabe por dónde empezar en redes profesionales",
+      "Quien busca trabajo activamente y quiere que los reclutadores lo encuentren, no al revés"
+    ],
+    "pains": [
+      "Tiene el perfil de LinkedIn incompleto o desactualizado desde hace años y no sabe cómo mejorarlo",
+      "Quiere publicar contenido pero se bloquea frente a la pantalla sin saber qué escribir ni cómo empezar",
+      "Siente que LinkedIn es para otros y lo usa solo para aceptar conexiones sin estrategia",
+      "Ha enviado solicitudes de conexión a ciegas sin una estrategia clara y con resultados nulos"
+    ]
+  },
+  {
+    "id": 6,
+    "level": "NIVEL 1",
+    "category": "FINANZAS & INVERSIONES",
+    "icon": "💰",
+    "title": "Panel Inteligente para Controlar tus Finanzas Personales sin Fórmulas",
+    "description": "Una planilla automatizada que registra ingresos, gastos, metas e inversiones en un tablero simple. Los cálculos y gráficos se actualizan solos a medida que la completas, mostrando en tiempo real adónde se fue el dinero y cuánto sobró al final del mes. Sin necesidad de saber de contabilidad ni armar fórmulas desde cero.",
+    "promise": "Saber exactamente adónde va tu dinero antes del quinto día del mes.",
+    "promiseDetail": "Abres el panel, ingresas lo que gastaste y los números te muestran la realidad. Sin conjeturas, sin sorpresas al revisar el saldo.",
+    "ads": [
+      "¿Llegas a fin de mes sin entender a dónde se fue el dinero? Esta planilla lo muestra en tiempo real desde el primer día que la usas.",
+      "El problema no es cuánto ganas. Es que nadie te enseñó a dónde va lo que ganas. Este panel lo hace visible en minutos al día.",
+      "Control financiero no es para contadores. Es para cualquiera que quiera dejar de sorprenderse cuando revisa el saldo. Esta planilla lo hace automático."
+    ],
+    "audience": [
+      "Profesional con ingresos estables que siente que el dinero desaparece sin poder explicar por qué",
+      "Persona que quiere empezar a ahorrar pero no sabe cuánto puede destinar porque no tiene claridad de sus gastos",
+      "Alguien que ha intentado llevar las finanzas en cuadernos o apps y lo abandona porque es muy complicado"
+    ],
+    "pains": [
+      "Llega a fin de mes sin entender a dónde se fue el dinero, aunque siente que no gasta en cosas innecesarias",
+      "Ha probado apps de finanzas que son demasiado complicadas o que requieren conectar cuentas bancarias",
+      "No sabe cuánto puede ahorrar cada mes porque no tiene claridad del total de sus gastos fijos y variables",
+      "Siente que gana bien pero no logra acumular ahorro porque no tiene un sistema real de seguimiento"
+    ]
+  },
+  {
+    "id": 7,
+    "level": "NIVEL 1",
+    "category": "FINANZAS & INVERSIONES",
+    "icon": "🎯",
+    "title": "Plan de Ataque a tus Deudas en 90 Días — Con Guiones de Negociación Incluidos",
+    "description": "Un kit completo para organizar todas las deudas en una planilla, definir el orden de pago según la estrategia que más conviene y negociar con acreedores usando guiones listos. El plan de 90 días convierte una lista abrumadora de deudas en una secuencia clara de acción con fechas y montos definidos.",
+    "promise": "De la parálisis al plan de ataque: tus deudas organizadas y en camino de cierre en 90 días.",
+    "promiseDetail": "Cargas las deudas, el sistema define el orden de pago y tú ejecutas. Con guiones para negociar sin ansiedad cuando tengas que llamar.",
+    "ads": [
+      "El problema con las deudas no es que sean muchas. Es que sin orden, parecen imposibles. Este kit convierte el caos en un plan de 90 días.",
+      "Llamar a negociar una deuda da ansiedad porque no sabes qué decir. Este kit viene con guiones listos para cada tipo de acreedor.",
+      "Deuda organizada es deuda a punto de cerrarse. Este plan define qué pagar primero, cuánto y cómo negociar lo que no puedes pagar hoy."
+    ],
+    "audience": [
+      "Persona con varias deudas activas que siente que no avanza porque no sabe cuál atacar primero",
+      "Quien tiene deudas atrasadas y evita llamar a los acreedores por no saber cómo manejar la conversación",
+      "Alguien que quiere salir de deudas pero necesita un plan concreto, no solo motivación"
+    ],
+    "pains": [
+      "Tiene varias deudas y no sabe cuál pagar primero, lo que lo lleva a no pagar ninguna bien",
+      "Evita revisar el estado de sus deudas porque la sola idea le genera ansiedad y parálisis",
+      "Ha intentado organizarse antes pero no mantiene el seguimiento y termina volviendo al caos",
+      "Siente que negocia mal con los acreedores porque no sabe cuánto puede ofrecer ni cómo decirlo"
+    ]
+  },
+  {
+    "id": 8,
+    "level": "NIVEL 1",
+    "category": "FINANZAS & INVERSIONES",
+    "icon": "📈",
+    "title": "Manual de Primeras Inversiones — Cómo Poner a Trabajar tus Primeros $100",
+    "description": "Un manual visual paso a paso para quien nunca ha invertido y quiere arrancar con menos de $100. Muestra cómo abrir una cuenta en plataformas accesibles, cómo hacer los primeros aportes y cómo armar una cartera inicial simple, usando ejemplos reales y sin jerga financiera innecesaria.",
+    "promise": "Tu primer dinero invertido esta semana, aunque nunca hayas invertido nada en tu vida.",
+    "promiseDetail": "El manual te muestra qué hacer, en qué plataforma y con cuánto. Tú lo sigues y el dinero empieza a trabajar mientras duermes.",
+    "ads": [
+      "No necesitas miles de dólares para empezar a invertir. Necesitas el manual correcto. Este muestra cómo hacerlo con menos de $100 y sin saber nada de finanzas.",
+      "Cada mes que pasa sin invertir es un mes de rendimiento que no recibes. Este manual elimina la excusa de no saber por dónde empezar con un paso a paso visual.",
+      "La diferencia entre quien invierte y quien no no es el dinero. Es que uno tiene el manual y el otro no. Aquí está el manual."
+    ],
+    "audience": [
+      "Persona que quiere empezar a invertir pero siente que le falta demasiado conocimiento para hacerlo bien",
+      "Quien tiene algo de ahorro guardado sin rendir en una cuenta y quiere ponerlo a trabajar",
+      "Adulto joven que entiende que debería invertir pero nunca sabe cómo dar el primer paso concreto"
+    ],
+    "pains": [
+      "Quiere invertir pero siente que necesita saber mucho más antes de arriesgarse a perder dinero",
+      "Ha visto contenido sobre inversiones en redes y se confundió más de lo que estaba al principio",
+      "No sabe en qué plataforma abrir cuenta ni qué diferencia hay entre las opciones disponibles",
+      "Tiene pequeños ahorros pero los deja sin rendir porque no sabe el mínimo necesario para empezar"
+    ]
+  },
+  {
+    "id": 9,
+    "level": "NIVEL 1",
+    "category": "MARKETING DIGITAL & VENTAS",
+    "icon": "✍️",
+    "title": "Arsenal de 100 Titulares que Venden — Por Objetivo y Listos para Adaptar",
+    "description": "Un banco de 100 plantillas de titular probadas en anuncios, páginas de venta, emails y posts, organizadas por objetivo: curiosidad, urgencia, prueba social, dolor y deseo. Cuando necesitas escribir, abres el banco por objetivo, adaptas el titular a tu producto en segundos y tienes algo que ya vende funcionando como punto de partida.",
+    "promise": "El cursor parpadeando se termina. 100 titulares que venden, listos para copiar y adaptar.",
+    "promiseDetail": "Buscas por objetivo, cambias el nicho o el producto, y publicas. Sin esperar la inspiración que nunca llega a tiempo.",
+    "ads": [
+      "El titular es el 80% de la venta. Si no para, no lee. Si no lee, no compra. Este banco de 100 titulares probados resuelve eso para siempre.",
+      "Los copywriters que cobran caro tienen bancos de titulares que prueban y reusan. Aquí tienes 100 de los mejores, organizados por objetivo y listos para adaptar.",
+      "Cada minuto frente a la pantalla en blanco es dinero que no estás ganando. 100 titulares organizados por objetivo. Abres, adaptas, publicas."
+    ],
+    "audience": [
+      "Emprendedor o freelancer que necesita escribir copy constantemente y se traba siempre en el titular",
+      "Infoproductor o afiliado que quiere mejorar sus tasas de conversión empezando por el punto de mayor impacto",
+      "Creador de contenido que necesita hooks para posts y anuncios sin depender de la inspiración del momento"
+    ],
+    "pains": [
+      "Se queda mirando la pantalla sin saber cómo empezar el anuncio o la página de ventas",
+      "Sus titulares actuales no generan clics ni ventas pero no sabe cómo mejorarlos ni por qué fallan",
+      "Siente que escribe bien pero sus textos no convierten y no entiende qué le falta",
+      "Pierde horas en el titular que debería tomar minutos, retrasando todo el proceso de publicación"
+    ]
+  },
+  {
+    "id": 10,
+    "level": "NIVEL 1",
+    "category": "INGRESOS EXTRA & FREELANCING",
+    "icon": "💻",
+    "title": "Ruta de los $600 Mensuales como Freelancer — Del Cero al Primer Cliente en 90 Días",
+    "description": "Una guía de acción paso a paso que lleva desde la elección de la habilidad a vender hasta el cierre de los primeros clientes que suman $600 al mes. Incluye cómo definir el servicio, cómo armar el perfil en las plataformas correctas, cómo poner precio y un plan de 90 días con tareas concretas para cada etapa.",
+    "promise": "De cero a $600 mensuales como freelancer. Una ruta, en el orden correcto.",
+    "promiseDetail": "Sin probar mil plataformas ni inventar el camino. Sigues la ruta, haces la tarea del día y llegas al primer ingreso.",
+    "ads": [
+      "El freelancing no falla por falta de talento. Falla porque nadie le dice exactamente qué hacer primero, qué después y dónde encontrar clientes que paguen. Esta ruta lo hace.",
+      "¿Cuántos tutoriales de freelancing viste sin cerrar un solo cliente? El problema no es el contenido. Es que nadie te da la ruta en el orden correcto. Esta guía lo hace.",
+      "De cero a $600 mensuales como freelancer. No es una promesa motivacional. Es una ruta de 90 días con tareas concretas para cada semana."
+    ],
+    "audience": [
+      "Profesional con habilidades vendibles que quiere generar ingresos extra sin depender de su empleador",
+      "Persona que quiere trabajar de forma remota pero no sabe cómo conseguir clientes online",
+      "Alguien que intentó el freelancing antes pero no consiguió clientes y no sabe qué hizo mal"
+    ],
+    "pains": [
+      "Tiene habilidades pero no sabe cómo presentarlas para que alguien esté dispuesto a pagar por ellas",
+      "Se registró en plataformas de freelancing, mandó propuestas y no recibió respuesta de nadie",
+      "No sabe cuánto cobrar y tiene miedo de pedir muy poco o de asustar al cliente con un precio alto",
+      "Quiere ingresos extra pero no tiene tiempo de cursos largos ni de probar caminos que no funcionan"
+    ]
+  },
+  {
+    "id": 11,
+    "level": "NIVEL 1",
+    "category": "INGRESOS EXTRA & FREELANCING",
+    "icon": "💸",
+    "title": "53 Formas Reales de Ganar Dinero Extra Esta Semana — Filtradas por Capital y Tiempo",
+    "description": "Un catálogo de 53 formas reales de generar ingresos adicionales, organizadas por cuánto capital necesitas y cuánto tiempo tardan en rendir. Filtras según tu situación, eliges una y la pones en marcha hoy. Sin fórmulas mágicas ni promesas vacías.",
+    "promise": "53 formas de ganar dinero extra esta semana. Filtradas por lo que tienes: tiempo, capital o habilidad.",
+    "promiseDetail": "Buscas el filtro que coincide con tu situación actual, eliges una opción y arrancas hoy. Sin grandes inversiones ni cursos previos.",
+    "ads": [
+      "No existe un solo camino para ganar dinero extra. Existen 53. Este catálogo los organiza por tiempo disponible y capital inicial para que encuentres el tuyo esta semana.",
+      "La excusa de no tener capital para empezar solo funciona si no conoces los 27 caminos que no requieren inversión inicial. Están todos aquí.",
+      "Hay personas en tu misma ciudad ganando dinero extra con habilidades que ya tienes. La diferencia es que ellas eligieron una opción y arrancaron. Este catálogo te da las opciones."
+    ],
+    "audience": [
+      "Empleado que quiere ingresos adicionales sin dejar su trabajo actual ni invertir mucho tiempo",
+      "Persona que necesita más dinero este mes específicamente y no puede esperar meses para ver resultados",
+      "Quien tiene tiempo libre o habilidades sin usar y no sabe cómo convertirlas en dinero"
+    ],
+    "pains": [
+      "Quiere generar ingresos extra pero no sabe por cuál de las mil opciones empezar y se paraliza",
+      "Ha probado ideas de ingresos extra que no funcionaron y tiene miedo de perder tiempo en otra que tampoco sirva",
+      "Busca opciones que se adapten a su tiempo real disponible, no ideales que asumen jornada completa",
+      "Siente que para ganar dinero extra necesita mucho capital inicial que no tiene en este momento"
+    ]
+  },
+  {
+    "id": 12,
+    "level": "NIVEL 1",
+    "category": "INGRESOS EXTRA & FREELANCING",
+    "icon": "📝",
+    "title": "Pack de 11 Propuestas Comerciales que Cierran — Para Freelancers que Odian Vender",
+    "description": "Once plantillas de propuesta comercial listas para personalizar y enviar, cada una pensada para un tipo de servicio freelancer diferente. Incluye manual de precios para saber exactamente cuánto cobrar y cómo responder cuando el cliente pide descuento sin perder la venta ni la dignidad.",
+    "promise": "Tu propuesta enviada hoy, con cara de profesional y precio justo.",
+    "promiseDetail": "Abres la plantilla del servicio que ofreces, cambias los datos y la mandas. Sin trabarte en cómo decirlo ni cuánto pedir.",
+    "ads": [
+      "Perder un cliente porque la propuesta se veía amateur es evitable. Este pack tiene 11 propuestas listas que se ven profesionales desde el primer párrafo.",
+      "¿No sabes cuánto cobrar? ¿No sabes cómo responder cuando piden descuento? Este pack incluye las plantillas y el manual de precios para que nunca más pierdas una venta por eso.",
+      "Los freelancers que cierran más clientes no son los más talentosos. Son los que envían mejores propuestas más rápido. Aquí están las propuestas."
+    ],
+    "audience": [
+      "Freelancer que pierde clientes porque tarda demasiado en enviar la propuesta o porque se ve poco profesional",
+      "Quien sabe hacer su trabajo bien pero no sabe cómo presentar el precio sin generar objeciones",
+      "Persona que empieza en el freelancing y necesita plantillas profesionales para proyectar credibilidad desde el inicio"
+    ],
+    "pains": [
+      "Tarda horas en armar una propuesta desde cero cada vez que aparece un cliente potencial",
+      "No sabe si su propuesta se ve profesional o si aleja a los clientes antes de que puedan decir sí",
+      "Cuando el cliente pide descuento, no sabe qué responder y termina bajando el precio por ansiedad",
+      "Sus propuestas no tienen estructura clara y los clientes quedan confundidos sobre qué están comprando"
+    ]
+  },
+  {
+    "id": 13,
+    "level": "NIVEL 1",
+    "category": "MASCOTAS & ANIMALES",
+    "icon": "🐶",
+    "title": "Bóveda de 31 Snacks Naturales Caseros para tu Perro — Con Aval Veterinario",
+    "description": "Treinta y un recetas de snacks saludables para perros, con aval veterinario, hechas con ingredientes del supermercado de barrio. Cada receta incluye lista de ingredientes, pasos, tiempo de preparación y tabla de ingredientes que nunca deben darse a los perros. Sale más barato que el paquete industrial y sabes exactamente qué le estás dando.",
+    "promise": "31 snacks naturales para tu perro. Hechos por ti, con ingredientes de supermercado y aval veterinario.",
+    "promiseDetail": "Eliges la receta, preparas en 15 minutos y le das algo real. Sin lista de ingredientes que no puedes pronunciar.",
+    "ads": [
+      "¿Sabes qué tiene el snack industrial que le das a tu perro? Este manual te enseña a hacer 31 alternativas naturales con ingredientes que reconoces.",
+      "Tu perro come lo que tú le das. Si le das snacks con conservantes que no entiendes, él los come igual. Este manual da 31 opciones naturales más baratas y más seguras.",
+      "Los snacks caseros para perros no son complicados. Son 31 recetas con ingredientes de supermercado, aval veterinario y menos costo que el paquete de la tienda."
+    ],
+    "audience": [
+      "Dueño de perro que quiere controlar qué come su mascota y evitar ultra-procesados innecesarios",
+      "Persona con perro con sensibilidades alimentarias que necesita opciones caseras seguras",
+      "Dueño que quiere ahorrar en snacks de mascota sin sacrificar calidad ni preocuparse por ingredientes"
+    ],
+    "pains": [
+      "Compra snacks industriales para su perro sin entender la lista de ingredientes y eso le genera incomodidad",
+      "Su perro tiene reacciones a ciertos alimentos procesados y necesita opciones más controladas",
+      "Los snacks de veterinaria o tienda pet son caros y no entiende por qué si los ingredientes son simples",
+      "Quiere premiar a su perro con algo especial pero no sabe qué alimentos humanos son seguros para él"
+    ]
+  },
+  {
+    "id": 14,
+    "level": "NIVEL 1",
+    "category": "FOTOGRAFÍA & EDICIÓN",
+    "icon": "📷",
+    "title": "Bóveda de 47 Presets Lightroom para Instagram — Por Estilo y Listo en un Toque",
+    "description": "Cuarenta y siete presets para Lightroom Mobile, organizados en estilos de alta demanda: clean, cálido, moody, retro, tropical y urbano. Importas el preset, lo aplicas con un toque y ajustas si quieres, siguiendo el paso a paso incluido. En una tarde tu feed gana coherencia visual sin saber nada de edición.",
+    "promise": "Feed de Instagram con estética profesional en una tarde. Sin cursos de edición, sin Photoshop.",
+    "promiseDetail": "Importas el preset, aplicas con un toque y publicas. 47 estilos para elegir el que encaja con tu identidad visual.",
+    "ads": [
+      "La diferencia entre un feed que retiene y uno que no es el estilo visual. Este pack de 47 presets para Lightroom Mobile te da ese estilo en un toque.",
+      "No necesitas saber editar fotos para tener un feed con estética consistente. Solo necesitas el preset correcto. Aquí hay 47 para elegir.",
+      "Cuentas de Instagram que parecen profesionales no tienen un fotógrafo detrás de cada foto. Tienen un preset que aplican en segundos. Aquí están los 47 mejores."
+    ],
+    "audience": [
+      "Creador de contenido o influencer que quiere coherencia visual en su feed sin aprender edición avanzada",
+      "Emprendedor que usa Instagram para vender y sabe que la estética impacta la percepción de su marca",
+      "Persona que publica en redes pero siente que sus fotos no tienen el look profesional que ve en otras cuentas"
+    ],
+    "pains": [
+      "Sus fotos de Instagram se ven inconsistentes o sin estilo definido y no sabe cómo mejorar eso",
+      "Ha intentado editar fotos pero el proceso le lleva demasiado tiempo o el resultado no es el que imagina",
+      "Ve feeds con estética profesional y no entiende qué diferencia técnica hay con sus propias fotos",
+      "Siente que sus publicaciones se pierden porque visualmente no tienen la calidad que detiene el scroll"
+    ]
+  },
+  {
+    "id": 15,
+    "level": "NIVEL 1",
+    "category": "PRODUCTIVIDAD & ORGANIZACIÓN",
+    "icon": "📅",
+    "title": "Sistema de Productividad Personal — Objetivos, Rutina y Hábitos en un Solo Lugar",
+    "description": "Un sistema de agenda que reúne los objetivos del año, la planificación mensual, el seguimiento del día a día y el control de hábitos en un solo lugar. Disponible en Notion, GoodNotes y PDF editable. En lugar de tener tareas dispersas en tres apps y dos cuadernos, abres el sistema por la mañana y sabes exactamente qué importa hoy.",
+    "promise": "Abres el sistema por la mañana y ya sabes qué hacer hoy. Sin buscar en tres lugares distintos.",
+    "promiseDetail": "Un lugar para objetivos, rutina y hábitos. Sin apps de más ni cuadernos que nadie termina usando.",
+    "ads": [
+      "El problema de productividad no es falta de tiempo. Es tener las tareas repartidas en cinco lugares distintos. Este sistema lo concentra todo en uno.",
+      "Las personas que logran sus objetivos no tienen más horas. Tienen un sistema. Este es el sistema: objetivos, rutina y hábitos en un solo lugar.",
+      "Si tu planificación actual depende de que te acuerdes de todo, ya fallaste. Este sistema lleva el seguimiento por ti y te dice qué importa cada día."
+    ],
+    "audience": [
+      "Profesional ocupado que quiere ser más productivo pero ya probó apps y cuadernos que no mantiene",
+      "Emprendedor con múltiples proyectos que necesita un sistema para no perder cosas importantes de vista",
+      "Persona que quiere instalar hábitos y llevar seguimiento real de sus objetivos anuales"
+    ],
+    "pains": [
+      "Tiene tareas en WhatsApp, notas en el celular, cuaderno en el escritorio y aun así se olvida de cosas",
+      "Empieza el día sin saber qué es lo más importante a hacer y termina ocupado pero sin avanzar en lo que importa",
+      "Ha probado apps de productividad pero las abandona porque son demasiado complicadas de mantener",
+      "Pone objetivos a inicio de año pero pierde el seguimiento antes del primer trimestre"
+    ]
+  },
+  {
+    "id": 16,
+    "level": "NIVEL 1",
+    "category": "RELACIONES & AUTOESTIMA",
+    "icon": "💖",
+    "title": "Travesía de 30 Días para Reconstruir tu Autoestima desde Adentro",
+    "description": "Treinta días de prácticas diarias de autoconocimiento, afirmaciones y cuidado personal, organizadas en cuatro semanas con propósito distinto cada una. Una tarea por día. Al terminar el mes tienes un registro de tu proceso y una relación contigo mismo que cambió de base, no de fachada.",
+    "promise": "30 días de trabajo real sobre autoestima. Una tarea por día, no motivación vacía.",
+    "promiseDetail": "Haces la práctica del día, la registras y avanzas. Al mes tienes evidencia de que algo cambió, no solo la sensación.",
+    "ads": [
+      "La autoestima no se construye con frases inspiradoras. Se construye con prácticas concretas repetidas todos los días. Aquí están los 30 días.",
+      "30 días. Una práctica por día. Resultado concreto: una relación contigo mismo que ya no depende de la validación externa.",
+      "Si sigues esperando sentirte bien contigo mismo sin hacer el trabajo, el mes que viene vas a estar en el mismo lugar. Este es el trabajo. 30 días."
+    ],
+    "audience": [
+      "Persona que sabe que necesita trabajar su autoestima pero no sabe por dónde empezar de forma concreta",
+      "Quien salió de una relación dañina o situación que afectó su percepción de sí mismo y quiere reconstruirse",
+      "Adulto que repite patrones de inseguridad y quiere un proceso estructurado para trabajarlo por su cuenta"
+    ],
+    "pains": [
+      "Siente que su autoestima depende de la validación de otros y que sin ella se derrumba",
+      "Ha leído libros de autoayuda pero no logra trasladar las ideas a prácticas concretas del día a día",
+      "Se critica constantemente y no sabe cómo romper ese ciclo de pensamientos negativos hacia sí mismo",
+      "Siente que trabaja en su autoestima pero no ve cambio real porque no tiene un proceso estructurado"
+    ]
+  },
+  {
+    "id": 17,
+    "level": "NIVEL 1",
+    "category": "SALUD MENTAL & ANSIEDAD",
+    "icon": "🧠",
+    "title": "Manual Práctico para Frenar la Ansiedad — 10 Herramientas de TCC que Funcionan en el Momento",
+    "description": "Una guía basada en Terapia Cognitivo-Conductual con 10 herramientas concretas para reconocer y manejar la ansiedad en situaciones reales del día a día. Incluye diario de TCC para seguimiento de pensamientos y protocolo SOS para cuando la crisis aprieta. Funciona como apoyo entre sesiones, no como sustituto del profesional.",
+    "promise": "10 herramientas de TCC para frenar la ansiedad cuando aparece. No teoría. Técnicas que aplicas en el momento.",
+    "promiseDetail": "Reconoces el patrón, aplicas la herramienta correcta y la ansiedad pierde intensidad. Con o sin terapeuta al lado.",
+    "ads": [
+      "La ansiedad no se va sola esperando que pase. Se entrena. Este manual tiene 10 herramientas de TCC para manejarla en tiempo real, no en retrospectiva.",
+      "Saber que tienes ansiedad no alcanza. Lo que cambia algo es tener la herramienta lista cuando la ansiedad aparece. Aquí están las 10 herramientas.",
+      "Tu terapeuta no puede estar contigo a las 3 de la mañana. Estas 10 herramientas de TCC sí pueden. Con protocolo SOS para los momentos más difíciles."
+    ],
+    "audience": [
+      "Persona con ansiedad que está en terapia y quiere herramientas concretas para trabajar entre sesiones",
+      "Quien experimenta ansiedad pero no está en terapia y busca recursos estructurados para manejarse solo",
+      "Adulto que reconoce patrones ansiosos en su día a día y quiere aprender a interrumpirlos con técnicas reales"
+    ],
+    "pains": [
+      "Tiene ansiedad pero entre sesiones de terapia no sabe qué hacer cuando aparece en momentos concretos",
+      "Ha leído sobre ansiedad pero en el momento de la crisis no recuerda qué herramienta aplicar ni cómo",
+      "Siente que la ansiedad controla sus decisiones y sus relaciones pero no sabe cómo interrumpir el ciclo",
+      "Quiere algo concreto para hacer cuando la ansiedad llega, no más teoría sobre por qué la siente"
+    ]
+  },
+  {
+    "id": 18,
+    "level": "NIVEL 1",
+    "category": "DESARROLLO PERSONAL",
+    "icon": "📔",
+    "title": "Mapa de Vida — Propósito, Valores y Objetivos en una Sola Plantilla",
+    "description": "Una plantilla estructurada que guía a trazar un panorama completo de vida: visión de largo plazo, valores, rueda de la vida y objetivos por área. No arrancas en blanco. La estructura te lleva de los valores a un plan de acción concreto. Al final tienes un documento de consulta para decidir con claridad cuando la vida se pone difusa.",
+    "promise": "Propósito, valores y objetivos en una sola plantilla. Para dejar de vivir en piloto automático.",
+    "promiseDetail": "Sigues la estructura, completas cada sección y terminas con un mapa claro de hacia dónde vas y por qué.",
+    "ads": [
+      "Vivir sin propósito definido no es libertad. Es deriva. Esta plantilla ayuda a trazar el mapa de vida que deja en claro qué importa y hacia dónde ir.",
+      "¿Cuándo fue la última vez que pensaste en serio qué quieres de los próximos cinco años? Esta plantilla hace ese proceso en una tarde.",
+      "Propósito, valores, objetivos por área. Todo en una plantilla que guía cada paso para que no empieces en blanco y nunca llegues a ningún lado."
+    ],
+    "audience": [
+      "Persona que siente que vive en piloto automático y quiere claridad sobre lo que realmente quiere para su vida",
+      "Adulto en transición de etapa que necesita reorientarse con claridad",
+      "Quien tiene muchos objetivos sueltos pero ningún sistema para unirlos en una visión coherente de vida"
+    ],
+    "pains": [
+      "Siente que el tiempo pasa y no avanza hacia nada concreto porque no tiene claro a dónde quiere llegar",
+      "Tiene objetivos en distintas áreas de vida pero no sabe cómo priorizarlos ni cómo conectarlos entre sí",
+      "Empieza procesos de planificación pero abandona porque la hoja en blanco lo paraliza sin estructura",
+      "Toma decisiones importantes sin tener claro qué valores quiere honrar, lo que genera arrepentimiento"
+    ]
+  },
+  {
+    "id": 19,
+    "level": "NIVEL 1",
+    "category": "COCINA & REPOSTERÍA",
+    "icon": "🍰",
+    "title": "Bóveda de 50 Dulces Gourmet Rentables — Con Costo por Unidad y Precio de Venta Calculado",
+    "description": "Cincuenta recetas de dulce gourmet ya probadas, con foto, costo de producción por unidad, precio de venta sugerido y margen real. Antes de prender la estufa sabes cuánto gastas y cuánto ganas. Incluye capítulo de primeras ventas para empezar a ofrecer desde la primera semana, no cuando el producto esté perfecto.",
+    "promise": "50 dulces gourmet con costo, precio y margen calculados. Para vender desde la primera semana.",
+    "promiseDetail": "Eliges el dulce, verificas el margen, lo produces y lo ofreces. Sin adivinar si vas a ganar o a perder.",
+    "ads": [
+      "La repostería no falla por mala calidad. Falla porque nadie calculó el margen antes de producir. Este manual trae 50 recetas con el cálculo ya hecho.",
+      "Antes de invertir en ingredientes deberías saber cuánto vas a ganar por unidad. Este manual te lo muestra en 50 recetas gourmet probadas.",
+      "50 recetas gourmet con costo por unidad, precio de venta y margen calculado. Para que el negocio de repostería no sea hobby disfrazado de emprendimiento."
+    ],
+    "audience": [
+      "Persona que hornea bien y quiere convertir esa habilidad en un ingreso concreto y sostenible",
+      "Quien ya vende postres pero no sabe si está ganando o perdiendo porque nunca calculó los costos reales",
+      "Emprendedora de repostería artesanal que quiere escalar sin desordenarse con la parte del negocio"
+    ],
+    "pains": [
+      "Hace postres ricos pero no sabe cuánto cobrar y termina vendiéndolos por menos de lo que cuestan",
+      "Invierte en ingredientes sin saber el margen real y descubre que ganó muy poco después de producir",
+      "Quiere empezar a vender pero siente que necesita perfeccionar más el producto antes de salir a ofrecer",
+      "No tiene un sistema de precios claro y le da vergüenza cobrar lo que realmente debería cobrar"
+    ]
+  },
+  {
+    "id": 20,
+    "level": "NIVEL 1",
+    "category": "EDUCACIÓN & OPOSICIONES",
+    "icon": "📚",
+    "title": "Sistema de Ciclos para Oposiciones — El Método que Reemplaza la Grilla que Siempre Falla",
+    "description": "Un planner de estudio basado en el método de ciclos, diseñado para oposiciones y exámenes de alto volumen de contenido. Alterna materias de forma inteligente en vez de seguir una grilla rígida que se rompe ante el primer imprevisto. Incluye plantillas de ciclo listas, registro de horas y repaso espaciado integrado.",
+    "promise": "El sistema de estudio que no se rompe cuando la semana se complica. Para oposiciones de verdad.",
+    "promiseDetail": "Defines el ciclo, estudias las materias en rotación y el repaso espaciado hace que lo que aprendiste no se evapore.",
+    "ads": [
+      "La grilla de estudio fija falla porque la vida no es fija. El método de ciclos se adapta a tus semanas reales y mantiene el avance igual.",
+      "Estudiar para oposiciones con grilla rígida es garantía de culpa cada vez que la vida interrumpe el plan. Este sistema de ciclos elimina esa trampa.",
+      "El repaso espaciado no es opcional en oposiciones. Es la diferencia entre recordar el día del examen o no. Este sistema lo tiene integrado desde el primer día."
+    ],
+    "audience": [
+      "Opositor que lleva meses estudiando sin claridad sobre si está avanzando al ritmo correcto",
+      "Persona que ha empezado a preparar oposiciones varias veces y siempre abandona al mes por desorganización",
+      "Estudiante con trabajo o familia que necesita un sistema flexible que no colapse ante la primera semana difícil"
+    ],
+    "pains": [
+      "Arma grillas de estudio que abandona a los diez días porque no puede cumplirlas y se desanima",
+      "Estudia muchas horas pero siente que el contenido no se queda y que en el examen va a olvidar todo",
+      "No sabe si está dedicando tiempo suficiente a cada materia o si tiene áreas peligrosamente descuidadas",
+      "Siente que no tiene un sistema de estudio real, solo un esfuerzo diario sin estructura que lo guíe"
+    ]
+  },
+  {
+    "id": 21,
+    "level": "NIVEL 1",
+    "category": "CARRERA & LINKEDIN",
+    "icon": "📄",
+    "title": "Checklist de Cambio de Carrera — Del Análisis al Plan de 90 Días sin Salto al Vacío",
+    "description": "Un sistema de checklist, planner y guía para cambiar de carrera en 90 días con seguridad. Empieza por una autoevaluación de habilidades y deseos, pasa por análisis del mercado objetivo y llega a un plan de 90 días con pasos concretos por semana. Recursos de apoyo incluidos para cada fase.",
+    "promise": "Cambio de carrera sin salto al vacío. Un proceso de 90 días con cada paso definido.",
+    "promiseDetail": "Evalúas lo que tienes, analizas el mercado al que apuntas y ejecutas el plan semana a semana. Sin improvisar ni arriesgar todo de golpe.",
+    "ads": [
+      "Cambiar de carrera sin un plan es arriesgar el ingreso por un impulso. Este sistema convierte el impulso en un proceso de 90 días con pasos claros.",
+      "El miedo al cambio de carrera no viene de la decisión. Viene de no tener mapeado lo que pasa después de decidir. Este checklist lo mapea todo.",
+      "Autoevaluación, análisis de mercado y plan de 90 días. Los tres pasos para cambiar de carrera con cabeza y sin arrepentimientos."
+    ],
+    "audience": [
+      "Profesional que quiere cambiar de carrera pero no sabe cómo hacerlo sin perder estabilidad económica",
+      "Persona que siente que su trabajo actual no la llena y quiere explorar otras opciones con criterio",
+      "Quien ya decidió cambiar de carrera pero necesita un proceso estructurado para ejecutarlo con seguridad"
+    ],
+    "pains": [
+      "Quiere cambiar de carrera pero el miedo a perder el ingreso lo paraliza y lo mantiene en donde está",
+      "No sabe si sus habilidades actuales son transferibles a la nueva área y eso le genera inseguridad",
+      "Ha pensado en cambiar varias veces pero nunca toma acción concreta porque no sabe por dónde empezar",
+      "Teme tomar la decisión equivocada y quedarse peor de lo que está sin posibilidad de volver atrás"
+    ]
+  },
+  {
+    "id": 22,
+    "level": "NIVEL 1",
+    "category": "SALUD MENTAL & ANSIEDAD",
+    "icon": "😴",
+    "title": "Protocolo de Sueño Reparador — Rutina Nocturna que Apaga el Cerebro en 30 Minutos",
+    "description": "Una guía con prácticas de higiene del sueño científicamente respaldadas, un ritual nocturno paso a paso y técnicas para conciliar el sueño más rápido. Incluye la ciencia detrás de cada hábito y un tracker de sueño para seguir la evolución. Transforma la noche dando vueltas en una rutina que prepara el cuerpo para apagarse.",
+    "promise": "Del insomnio a la rutina que apaga el cerebro. Sueño reparador en 30 días de protocolo.",
+    "promiseDetail": "Sigues el ritual nocturno, aplicas las técnicas y el cuerpo aprende que es hora de apagarse. Cada noche mejor que la anterior.",
+    "ads": [
+      "Dar vueltas en la cama a las 2 de la mañana no es mala suerte. Es que tu cerebro no recibe la señal de que es hora de apagarse. Este protocolo le enseña.",
+      "El sueño deficiente arruina el día siguiente, la semana siguiente y la salud de largo plazo. Este protocolo lo invierte en 30 días de rutina nocturna.",
+      "Cada cosa que haces en las últimas 2 horas del día le dice a tu cerebro si debe dormir o seguir encendido. Este protocolo te muestra qué cambiar."
+    ],
+    "audience": [
+      "Persona que tarda mucho en quedarse dormida o que se despierta de madrugada y no puede volver a dormir",
+      "Adulto que siente que duerme suficientes horas pero amanece cansado como si no hubiera descansado",
+      "Quien sabe que el sueño afecta todo lo demás pero no ha logrado instalar una rutina nocturna que funcione"
+    ],
+    "pains": [
+      "Se acuesta pero la mente sigue activa dando vueltas a problemas y no logra apagarse para dormir",
+      "Se despierta a la madrugada y le cuesta volver a dormirse, lo que arruina el descanso de la noche",
+      "Ha probado trucos sueltos para dormir mejor pero sin un protocolo coherente ninguno funciona de forma consistente",
+      "Amanece cansado la mayoría de los días y siente que el cansancio acumulado afecta su productividad y humor"
+    ]
+  },
+  {
+    "id": 23,
+    "level": "NIVEL 1",
+    "category": "MARKETING DIGITAL & VENTAS",
+    "icon": "🎬",
+    "title": "Pack de 22 Plantillas de Embudo de Ventas Listas en Canva — Del Anuncio a la Página de Gracias",
+    "description": "Más de 22 piezas editables en Canva para cada etapa del embudo: página de captura, página de ventas, creativos de anuncio, emails y página de gracias. Con video guía incluido que muestra exactamente dónde editar cada elemento. Armas tu estructura de venta en una tarde en lugar de pagar caro a un diseñador.",
+    "promise": "Tu embudo visual completo armado en una tarde. Sin diseñador, sin Photoshop, sin pantalla en blanco.",
+    "promiseDetail": "Abres la plantilla en Canva, cambias textos y colores, y publicas. Video guía incluido para que no te pierdas en ningún paso.",
+    "ads": [
+      "Un embudo sin identidad visual pierde ventas antes de que el copy trabaje. Este pack de 22 plantillas en Canva arma todo el embudo visual en una tarde.",
+      "¿Cuánto te costaría pagarle a un diseñador todas las piezas del embudo? Este pack las incluye todas, editables en Canva, con video guía de uso.",
+      "Página de captura, página de ventas, creativo de anuncio, email y página de gracias. Todo editables en Canva. Todo incluido en un pack."
+    ],
+    "audience": [
+      "Infoproductor o emprendedor digital que necesita piezas visuales para su embudo sin depender de diseñadores",
+      "Afiliado que quiere estructuras visuales profesionales para sus páginas de captura y anuncios",
+      "Emprendedor que lanza productos y pierde tiempo en el diseño cuando debería enfocarse en la oferta"
+    ],
+    "pains": [
+      "Tiene la oferta lista pero no tiene el diseño y eso retrasa el lanzamiento semanas enteras",
+      "Sus páginas y anuncios se ven caseros y siente que eso afecta la percepción del producto que vende",
+      "Paga diseñadores para cada pieza del embudo y el costo se acumula sin saber si se recuperará",
+      "Intenta diseñar en Canva desde cero pero no tiene ojo de diseño y el resultado siempre lo decepciona"
+    ]
+  },
+  {
+    "id": 24,
+    "level": "NIVEL 1",
+    "category": "SALUD MENTAL & ANSIEDAD",
+    "icon": "🧘",
+    "title": "Reto de 21 Días de Mindfulness — 10 Minutos al Día para Recuperar el Control",
+    "description": "Veintiún días de práctica de atención plena, 10 minutos al día, con audio guiado para cada sesión. Diario de seguimiento incluido para registrar cómo cambia el estado emocional semana a semana. Diseñado para quien está al límite y necesita algo corto que pueda mantener sin que se convierta en otra tarea que abandona.",
+    "promise": "10 minutos al día. 21 días. La mente deja de correr en todas direcciones a la vez.",
+    "promiseDetail": "Le das play al audio, sigues la práctica y marcas el día. Al final de las tres semanas el caos interno ya no tiene la misma intensidad.",
+    "ads": [
+      "La mente que no descansa nunca no es más productiva. Es más frágil. 10 minutos de mindfulness al día durante 21 días para empezar a cambiar eso.",
+      "El mindfulness no es sentarse a no pensar en nada. Es aprender a observar sin que cada pensamiento te arrastre. Este reto te enseña en 21 días.",
+      "21 días. 10 minutos. Un audio que solo tienes que reproducir. No necesitas experiencia en meditación ni tiempo extra en tu día."
+    ],
+    "audience": [
+      "Persona que vive en modo reactivo y quiere recuperar algo de calma y control sobre su mente",
+      "Quien quiere empezar a meditar pero no sabe cómo ni por cuánto tiempo y abandona antes de ver resultados",
+      "Adulto bajo presión constante que necesita una práctica mínima y sostenible para manejar el estrés"
+    ],
+    "pains": [
+      "Siente que la mente no para nunca y que incluso cuando descansa físicamente sigue agitada por dentro",
+      "Ha intentado meditar antes pero no sabe si lo está haciendo bien y lo abandona por frustración",
+      "No tiene tiempo para prácticas largas y necesita algo que quepa en su rutina real de forma realista",
+      "El estrés acumulado está afectando su humor, sus relaciones y su capacidad de concentración"
+    ]
+  },
+  {
+    "id": 25,
+    "level": "NIVEL 1",
+    "category": "INGRESOS EXTRA & FREELANCING",
+    "icon": "🚀",
+    "title": "Desafío de 30 Días: Tu Primer Ingreso en Internet Partiendo de Cero",
+    "description": "Treinta días con una misión corta diaria, probando un modelo de negocio digital diferente cada semana hasta cerrar la primera venta real. Todo con herramientas gratuitas y un panel para tachar cada misión y ver el avance. Para quien nunca ganó nada online y necesita alguien que le diga exactamente qué hacer hoy.",
+    "promise": "Tu primer ingreso online en 30 días. Con misión diaria, herramientas gratuitas y sin adivinar qué hacer.",
+    "promiseDetail": "Abres la misión del día, la ejecutas y la tachas. Al final del mes tienes la primera venta real o sabes exactamente qué falta.",
+    "ads": [
+      "El primer ingreso online es el más difícil porque nadie te dice exactamente qué hacer hoy. Este desafío lo resuelve con una misión diaria durante 30 días.",
+      "30 días. Una misión por día. Herramientas gratuitas. Para quien dice quiero ganar dinero en internet hace meses sin haber vendido nada todavía.",
+      "La diferencia entre quien gana online y quien no no es el conocimiento. Es la ejecución diaria. Este desafío fuerza la ejecución por 30 días seguidos."
+    ],
+    "audience": [
+      "Persona que quiere generar ingresos online pero nunca ha vendido nada y no sabe por dónde empezar",
+      "Empleado que quiere ingresos digitales como red de seguridad pero necesita que le digan exactamente qué hacer",
+      "Quien ha comprado cursos de negocios online pero nunca llegó a la primera venta por falta de acción"
+    ],
+    "pains": [
+      "Consume contenido sobre negocios digitales desde hace meses pero no ha dado ningún paso real hacia la venta",
+      "No sabe cuál de los modelos de negocio online probar primero y la duda lo mantiene en la parálisis",
+      "Ha intentado antes pero abandonó antes de llegar al primer ingreso y no sabe si fue el modelo o la ejecución",
+      "Tiene miedo de invertir tiempo y esfuerzo en algo que no funcione sin tener garantía de ningún resultado"
+    ]
+  },
+  {
+    "id": 26,
+    "level": "NIVEL 2",
+    "category": "AUTOMATIZACIÓN DE MARKETING",
+    "icon": "📊",
+    "title": "FunnelRadar — Panel Unificado de Métricas para Todos tus Embudos en Tiempo Real",
+    "description": "Una app que conecta Hotmart, Kiwify y Meta Ads en un solo panel, mostrando CPL, CPA, ROI y tasa de conversión actualizados en tiempo real. Recibe alertas automáticas cuando un indicador cae por debajo de tu umbral y reportes semanales por correo. Sin copiar datos a mano entre plataformas ni abrir cinco pestañas para saber si tu negocio está bien.",
+    "promise": "Todas tus métricas de embudo en un solo panel. Sin copiar datos, sin abrir cinco plataformas.",
+    "promiseDetail": "Conectas tus cuentas una vez y el panel se actualiza solo. Cuando algo falla, recibes la alerta antes de que el daño sea grande.",
+    "ads": [
+      "Cada día sin panel de métricas unificado es un día tomando decisiones con información incompleta. FunnelRadar conecta Hotmart, Kiwify y Meta Ads en tiempo real.",
+      "Si necesitas abrir cinco plataformas distintas para saber si tu negocio está funcionando, ya perdiste demasiado tiempo. Un panel. Todo actualizado. Alertas automáticas.",
+      "CPL, CPA, ROI y tasa de conversión de todos tus embudos en una pantalla. Con alertas para cuando algo cae y reportes semanales que llegan solos."
+    ],
+    "audience": [
+      "Infoproductor con múltiples ofertas activas que pierde tiempo reconciliando datos entre plataformas",
+      "Media buyer o gestor de tráfico que necesita tener todas las métricas en un solo lugar para tomar decisiones rápidas",
+      "Agencia o freelancer de marketing que gestiona varios clientes y necesita visibilidad total sin trabajo manual"
+    ],
+    "pains": [
+      "Pierde 30 minutos al día abriendo plataformas distintas para revisar métricas que no están en el mismo lugar",
+      "Se entera tarde de que una campaña está perdiendo dinero porque no tiene alertas configuradas",
+      "No puede comparar el desempeño de distintos embudos porque los datos están en plataformas distintas",
+      "Sus reportes de desempeño son manuales y desactualizados cuando los termina"
+    ]
+  },
+  {
+    "id": 27,
+    "level": "NIVEL 2",
+    "category": "AUTOMATIZACIÓN DE MARKETING",
+    "icon": "⭐",
+    "title": "ReviewBot — Sistema de Reseñas Automáticas que Llegan Antes que la Queja",
+    "description": "Una app que envía la solicitud de reseña por WhatsApp, correo o SMS en el momento exacto después de la compra, con el mensaje personalizado que tú defines. Clientes satisfechos van directamente a Google o Instagram. Clientes insatisfechos van a soporte interno antes de convertirse en una reseña negativa pública. Panel de NPS y tasa de respuesta incluido.",
+    "promise": "Más reseñas positivas, menos reseñas negativas públicas. Automatizado y sin recordar pedírselo a cada cliente.",
+    "promiseDetail": "El sistema envía la solicitud en el momento correcto. Tú revisas el panel y respondes solo a quien necesita atención. El resto fluye solo.",
+    "ads": [
+      "Los negocios que tienen más reseñas no piden más que los demás. Piden en el momento correcto y de forma automática. ReviewBot hace eso.",
+      "Una reseña negativa pública destruye lo que construiste en meses. ReviewBot intercepta la queja antes de que llegue a Google y la manda a tu soporte interno.",
+      "Pedir reseñas manualmente a cada cliente no escala. Este sistema lo hace solo: el momento correcto, el canal correcto, el mensaje que tú escribiste."
+    ],
+    "audience": [
+      "Negocio digital o local que sabe que necesita más reseñas pero no tiene sistema para pedirlas de forma consistente",
+      "Emprendedor que ha recibido reseñas negativas públicas y quiere un sistema que intercepte la insatisfacción antes",
+      "E-commerce o proveedor de servicios que quiere mejorar su NPS sin añadir trabajo manual al equipo"
+    ],
+    "pains": [
+      "Tiene clientes satisfechos que nunca dejan reseña porque nadie les recuerda hacerlo en el momento correcto",
+      "Ha recibido reseñas negativas de clientes que nunca contactaron al soporte para resolver el problema",
+      "Pedir reseñas manualmente es incómodo, no escala y depende de que alguien del equipo lo recuerde hacer",
+      "No sabe cuál es su NPS real ni la tasa de satisfacción porque no tiene sistema de seguimiento post-compra"
+    ]
+  },
+  {
+    "id": 28,
+    "level": "NIVEL 2",
+    "category": "GESTIÓN FINANCIERA",
+    "icon": "🎯",
+    "title": "DeudaCero — Liquidador de Deudas con Gamificación y Simulador de Fecha de Libertad",
+    "description": "Una app donde registras tus deudas con monto, intereses y cuotas, eliges la estrategia de pago que más te conviene y el sistema arma el plan de ataque. Cada deuda saldada genera XP, nivel y medalla. El simulador muestra la fecha exacta en que estarás libre de deudas y qué pasa si haces un pago extra este mes.",
+    "promise": "Saber exactamente cuándo terminas de pagar tus deudas. Con el plan, la estrategia y la motivación para llegar.",
+    "promiseDetail": "Cargas las deudas, eliges la estrategia y ves el progreso avanzar semana a semana. Con la fecha de libertad visible para no perder el norte.",
+    "ads": [
+      "El mayor problema con las deudas no es el monto. Es no saber cuándo termina. DeudaCero muestra la fecha exacta y el plan para llegar.",
+      "Pagar deudas sin saber cuándo terminan es como correr sin saber dónde está la meta. Esta app pone la meta a la vista y gamifica el camino.",
+      "Bola de nieve o avalancha. Dos estrategias probadas para pagar deudas. Esta app aplica la que eliges, muestra el progreso y premia cada deuda saldada."
+    ],
+    "audience": [
+      "Persona con varias deudas activas que quiere un plan claro y motivación para mantenerlo hasta el final",
+      "Quien ha intentado salir de deudas antes pero pierde el impulso a los dos meses por falta de seguimiento",
+      "Adulto que quiere saber exactamente en cuánto tiempo puede estar libre de deudas si ejecuta un plan específico"
+    ],
+    "pains": [
+      "Paga deudas de forma desordenada sin estrategia y siente que no avanza aunque destine dinero a pagarlas",
+      "No sabe cuándo terminará de pagar sus deudas y esa incertidumbre le genera ansiedad constante",
+      "Ha empezado planes para salir de deudas pero los abandona porque no ve el progreso de forma visual",
+      "No sabe si le conviene más la estrategia de bola de nieve o la de avalancha para su situación específica"
+    ]
+  },
+  {
+    "id": 29,
+    "level": "NIVEL 2",
+    "category": "PRODUCTIVIDAD & TAREAS",
+    "icon": "⏱️",
+    "title": "FocusBlock — Pomodoro con Bloqueo Real de Distracciones y Racha de Concentración",
+    "description": "Una app que combina temporizador Pomodoro con bloqueo activo de sitios y apps que interrumpen el trabajo. Durante la sesión, las redes sociales y el resto de las distracciones quedan bloqueadas. El modo Hardcore impide desbloquear hasta que termina el tiempo. Estadísticas de concentración y racha de días seguidos para mantener el impulso.",
+    "promise": "La sesión de trabajo que siempre interrumpen. Ahora sin interrupciones posibles.",
+    "promiseDetail": "Activas el temporizador, el bloqueo entra automático y trabajas sin que nada interrumpa hasta que suena la alarma.",
+    "ads": [
+      "El problema de productividad más común no es falta de tiempo. Es que el tiempo disponible está lleno de interrupciones de 30 segundos que suman horas. FocusBlock lo elimina.",
+      "Saber que Instagram está a un swipe de distancia hace imposible concentrarse de verdad. FocusBlock lo bloquea mientras trabajas. Sin excepciones posibles.",
+      "Temporizador Pomodoro más bloqueo real de distracciones más racha de días seguidos. Para quien quiere producir en 2 horas lo que antes le llevaba 6."
+    ],
+    "audience": [
+      "Trabajador remoto o freelancer que pierde horas productivas en distracciones que podría evitar",
+      "Estudiante que necesita concentración profunda para estudiar sin que las redes interrumpan cada 5 minutos",
+      "Emprendedor que trabaja desde casa y siente que el ambiente lo invita constantemente a desconcentrarse"
+    ],
+    "pains": [
+      "Abre el celular un segundo para ver una notificación y pierde 20 minutos en redes sin darse cuenta",
+      "No logra bloques de trabajo profundo porque las notificaciones y apps lo interrumpen de forma constante",
+      "Ha probado el Pomodoro pero sin bloqueo de apps sigue teniendo acceso a las distracciones y cede",
+      "Termina el día con sensación de haber estado ocupado pero sin haber avanzado en lo que realmente importaba"
+    ]
+  },
+  {
+    "id": 30,
+    "level": "NIVEL 2",
+    "category": "E-COMMERCE & VENTAS",
+    "icon": "🔔",
+    "title": "CarritoVivo — Recuperador de Carritos Abandonados por WhatsApp con Urgencia Progresiva",
+    "description": "Una app que detecta carritos abandonados y dispara automáticamente una secuencia de tres mensajes por WhatsApp: recordatorio a los 30 minutos, urgencia a las 4 horas y cupón de descuento a las 24 horas. Panel de seguimiento en tiempo real con carritos detectados, mensajes enviados y ventas recuperadas.",
+    "promise": "El 70% de los carritos se abandonan. CarritoVivo recupera una parte de ese dinero de forma automática.",
+    "promiseDetail": "El sistema detecta el abandono, envía la secuencia de WhatsApp y tú solo miras cuántas ventas vuelven al panel.",
+    "ads": [
+      "Por cada 10 personas que llegan a tu carrito, 7 se van sin comprar. CarritoVivo va a buscar a esas 7 por WhatsApp con una secuencia de urgencia progresiva.",
+      "Un carrito abandonado no es una venta perdida. Es una venta en pausa. CarritoVivo la reactiva con tres mensajes automáticos en 24 horas.",
+      "Recuperar carritos abandonados por WhatsApp puede aumentar tu facturación hasta un 20% sin gastar un peso extra en tráfico. CarritoVivo lo automatiza."
+    ],
+    "audience": [
+      "E-commerce que tiene tráfico y conversiones pero pierde demasiado en el paso del carrito al pago",
+      "Vendedor online que sabe que tiene gente interesada pero sin sistema de seguimiento automático post-abandono",
+      "Infoproductor o tienda online que quiere maximizar el retorno de su tráfico sin aumentar el presupuesto en ads"
+    ],
+    "pains": [
+      "Ve en el panel que muchas personas agregan al carrito pero no terminan la compra y no sabe por qué",
+      "No tiene sistema para hacer seguimiento de carritos abandonados y pierde ventas que podrían recuperarse fácil",
+      "Hace seguimiento manual por WhatsApp cuando se acuerda, lo que es inconsistente y no escala",
+      "Siente que invierte en tráfico y pierde una parte importante de ese dinero en el último paso antes de la venta"
+    ]
+  },
+  {
+    "id": 31,
+    "level": "NIVEL 2",
+    "category": "ATENCIÓN AL CLIENTE",
+    "icon": "💬",
+    "title": "AtendeIA — Chatbot Entrenado con tu Negocio que Responde el 80% de las Preguntas Solo",
+    "description": "Una app donde subes los PDFs, preguntas frecuentes y el contenido de tu sitio, y el chatbot empieza a responder dudas basado solo en ese material. Se instala en el sitio con una línea de código. Cuando no sabe la respuesta, pasa la conversación a un humano. Panel con las preguntas más frecuentes y el historial completo.",
+    "promise": "Un agente de soporte que conoce tu negocio, responde solo y nunca duerme.",
+    "promiseDetail": "Lo entrenas con tus documentos, lo instalas con una línea de código y empieza a resolver el 80% de las dudas antes de que lleguen a ti.",
+    "ads": [
+      "El 80% de las preguntas de soporte son siempre las mismas. AtendeIA las responde solo, sin que nadie del equipo tenga que hacer nada.",
+      "Soporte 24/7 sin contratar a nadie. Un chatbot entrenado con el contenido de tu negocio que sabe lo que dice tu web, tus PDFs y tus preguntas frecuentes.",
+      "La diferencia entre un bot genérico y este es que este leyó tu negocio. Responde con tus palabras, tu política y tu información. Sin inventar nada."
+    ],
+    "audience": [
+      "Negocio digital o local que recibe siempre las mismas preguntas de soporte y gasta tiempo respondiendo lo mismo",
+      "Emprendedor que atiende clientes solo y quiere liberar tiempo de soporte sin contratar a nadie",
+      "E-commerce o proveedor de servicios que necesita atención 24/7 sin el costo de tener un equipo disponible siempre"
+    ],
+    "pains": [
+      "Responde las mismas preguntas de soporte todos los días y el tiempo que eso consume afecta el resto del trabajo",
+      "Clientes que no reciben respuesta rápida fuera del horario laboral se van o dejan reseñas negativas",
+      "Ha probado chatbots genéricos que no entienden el contexto del negocio y terminan frustrando a los clientes",
+      "No puede escalar el negocio si el volumen de soporte crece porque depende de personas respondiendo manualmente"
+    ]
+  },
+  {
+    "id": 32,
+    "level": "NIVEL 2",
+    "category": "JURÍDICO & ABOGACÍA",
+    "icon": "⏰",
+    "title": "PlazoLegal — Control de Vencimientos Judiciales con Triple Recordatorio y Cero Errores",
+    "description": "Una app que calcula los plazos procesales automáticamente a partir de la fecha de notificación, contando días hábiles, feriados y recesos del tribunal por país. Tres recordatorios por canal: correo, WhatsApp y notificación push. Todos los plazos del despacho en una sola pantalla, vinculados al proceso y al cliente.",
+    "promise": "El plazo que se te vence no existe si tienes PlazoLegal. Triple recordatorio, cálculo automático, cero excusas.",
+    "promiseDetail": "Registras la notificación, el sistema calcula el plazo y los recordatorios llegan solos. Sin contar días hábiles a mano ni revisar el calendario de feriados.",
+    "ads": [
+      "Un plazo vencido en derecho no es un error administrativo. Es una responsabilidad profesional. PlazoLegal elimina ese riesgo con cálculo automático y triple alerta.",
+      "Contar días hábiles manualmente en 10 procesos distintos es una fuente de error que puede costar caro. Esta app lo hace sola y avisa tres veces antes del vencimiento.",
+      "Panel con todos los plazos del despacho, vinculados a proceso y cliente. Sin hojas de cálculo, sin post-its, sin depender de que alguien recuerde."
+    ],
+    "audience": [
+      "Abogado litigante con cartera activa que necesita controlar múltiples plazos procesales sin margen de error",
+      "Despacho jurídico pequeño que quiere reemplazar las hojas de cálculo y los recordatorios manuales por un sistema real",
+      "Abogado que trabaja solo y necesita que el sistema lleve el control porque no tiene equipo administrativo de apoyo"
+    ],
+    "pains": [
+      "Gestiona los plazos en hojas de cálculo o con recordatorios del celular y sabe que ese sistema tiene riesgo de falla",
+      "Calcula los días hábiles manualmente, lo que lleva tiempo y tiene riesgo de error cuando hay feriados involucrados",
+      "Ha tenido momentos de pánico por plazos que casi vencen y quiere eliminar ese riesgo para siempre",
+      "No tiene visibilidad rápida del estado general de los plazos de todos sus procesos en un solo lugar"
+    ]
+  },
+  {
+    "id": 33,
+    "level": "NIVEL 2",
+    "category": "CONTABILIDAD & FISCAL",
+    "icon": "🧾",
+    "title": "FiscalOCR — Procesador Masivo de Facturas con IA que Clasifica y Exporta Solo",
+    "description": "Una app que procesa en lotes facturas, recibos y comprobantes enviados como foto, PDF o imagen. El OCR con IA extrae el emisor, monto, fecha y naturaleza de la operación, clasifica cada documento contablemente y deja la revisión rápida para verificación humana. Exporta en CSV o Excel compatible con el sistema contable del contador.",
+    "promise": "Carga masiva de facturas que antes tomaba horas, ahora toma minutos. Con clasificación automática.",
+    "promiseDetail": "Envías los documentos en lote, la IA extrae y clasifica los datos, y tú solo verificas los casos que necesitan revisión.",
+    "ads": [
+      "Clasificar 200 facturas a mano cada mes es tiempo de contador que no genera valor. FiscalOCR lo hace en minutos con IA y entrega el CSV listo.",
+      "Fotos, PDFs, imágenes borrosas. FiscalOCR las procesa todas, extrae los datos clave y los clasifica por categoría contable. Lo que llevaba horas, pasa a llevar minutos.",
+      "El servicio de contabilidad del futuro no carga facturas a mano. Usa IA para clasificarlas y exportarlas. FiscalOCR hace eso ahora."
+    ],
+    "audience": [
+      "Contador o despacho contable que procesa grandes volúmenes de facturas y busca automatizar el trabajo repetitivo",
+      "Empresa o emprendedor que acumula facturas y comprobantes y quiere un sistema de clasificación automática",
+      "Profesional contable que quiere diferenciarse ofreciendo un servicio más eficiente y moderno a sus clientes"
+    ],
+    "pains": [
+      "Pasa horas cada mes cargando y clasificando facturas a mano, un trabajo repetitivo que no agrega valor real",
+      "Sus clientes le entregan documentos en distintos formatos y unificarlos lleva tiempo",
+      "El volumen de documentos crece con cada cliente nuevo y el proceso manual no escala sin contratar más personas",
+      "Comete errores de clasificación cuando el volumen es alto o cuando hay urgencia en el cierre contable del mes"
+    ]
+  },
+  {
+    "id": 34,
+    "level": "NIVEL 2",
+    "category": "SALUD & CLÍNICAS",
+    "icon": "📅",
+    "title": "AgendaMédica — Sistema de Citas Online con Confirmación por WhatsApp y Cero Ausentismo",
+    "description": "Una app de agendamiento médico donde el paciente elige profesional, horario y tipo de consulta desde tu página, y el cupo desaparece al instante de la agenda. Confirmación automática y recordatorio 24 horas antes por WhatsApp. Reducción de ausentismo de hasta 60%. Sin nadie anotando en papel ni coordinando por teléfono.",
+    "promise": "Agenda médica llena, sin llamadas perdidas y sin pacientes que no aparecen.",
+    "promiseDetail": "El paciente agenda solo, recibe el recordatorio automático y aparece. Tú atiendes, no administras.",
+    "ads": [
+      "Cada consultorio cancelado de último momento es dinero perdido. AgendaMédica envía el recordatorio 24 horas antes por WhatsApp y reduce el ausentismo hasta un 60%.",
+      "Tu paciente no debería tener que llamar para agendar ni esperar a que alguien le devuelva el mensaje. Esta app deja que agende solo, en cualquier momento.",
+      "Agenda online. Confirmación automática. Recordatorio por WhatsApp. Sin papel, sin llamadas, sin pacientes que olvidan el turno y no avisan."
+    ],
+    "audience": [
+      "Médico o profesional de salud que gestiona su agenda por teléfono o WhatsApp manual y quiere automatizarlo",
+      "Clínica pequeña que pierde tiempo y turnos por falta de sistema de confirmación y recordatorio automático",
+      "Profesional de salud independiente que quiere proyectar imagen profesional y reducir el trabajo administrativo"
+    ],
+    "pains": [
+      "Pierde tiempo coordinando turnos por WhatsApp o teléfono cuando podría estar atendiendo o descansando",
+      "Tiene ausentismo de pacientes que no cancelan y dejan el turno vacío sin posibilidad de llenarlo",
+      "Su sistema de agenda actual no le da visibilidad del día, la semana y el mes juntos",
+      "No tiene forma de enviar recordatorios automáticos y hacerlo manualmente antes de cada cita no es sostenible"
+    ]
+  },
+  {
+    "id": 35,
+    "level": "NIVEL 2",
+    "category": "SALUD & CLÍNICAS",
+    "icon": "📋",
+    "title": "ProntuárioDigital — Historia Clínica en la Nube para Profesionales que Atienden Solos",
+    "description": "Una app para registrar pacientes, cargar la historia clínica con plantilla adaptada a la especialidad, adjuntar exámenes y documentos, y encontrar cualquier antecedente con una búsqueda rápida. Cifrado y cumplimiento legal de protección de datos incluidos. Para profesionales independientes que quieren potencia sin precio corporativo.",
+    "promise": "Historia clínica digital, segura y buscable. Para quien atiende solo y no quiere pagar como una corporación.",
+    "promiseDetail": "Registras al paciente, cargas la consulta con plantilla de tu especialidad y encuentras cualquier antecedente en segundos. Desde cualquier dispositivo.",
+    "ads": [
+      "Seguir llevando las historias clínicas en papel en 2026 es un riesgo legal y operativo. ProntuárioDigital lo resuelve con cifrado y cumplimiento de protección de datos.",
+      "Buscar un antecedente de hace un año en pilas de fichas de papel no es gestión clínica. Es caos administrativo. Esta app termina con eso.",
+      "Historia clínica digital con plantilla de tu especialidad, exámenes adjuntos, cifrado incluido y búsqueda instantánea. Para profesionales independientes que atienden en serio."
+    ],
+    "audience": [
+      "Médico, psicólogo, nutricionista o cualquier profesional de salud que lleva historias en papel o en planillas",
+      "Profesional de salud independiente que quiere digitalizar sin pagar los precios de sistemas corporativos",
+      "Clínica pequeña que necesita un sistema de historia clínica digital que cumpla con la ley de protección de datos"
+    ],
+    "pains": [
+      "Lleva las historias clínicas en papel y pierde tiempo buscando información de consultas anteriores",
+      "No tiene forma rápida de acceder a antecedentes del paciente cuando lo necesita en medio de una consulta",
+      "Sabe que las historias en papel representan un riesgo legal y operativo pero no encontró un sistema accesible",
+      "Los sistemas de historia clínica del mercado son demasiado caros o complejos para quien trabaja solo"
+    ]
+  },
+  {
+    "id": 36,
+    "level": "NIVEL 2",
+    "category": "SALONES & ESTÉTICA",
+    "icon": "💇",
+    "title": "BeautyAgenda — Reservas Online 24/7 para Salones con Recordatorio Automático y Cero Sillas Vacías",
+    "description": "Una app de agendamiento para salones de belleza donde el cliente reserva online, elige servicio y profesional, y recibe confirmación y recordatorio automático 24 horas antes. Control de capacidad por profesional y horario. El panel muestra la agenda de todo el equipo en un solo lugar, sin coordinar por WhatsApp ni teléfono.",
+    "promise": "Reservas que llegan solas, clientes que aparecen y agenda del equipo en un solo panel.",
+    "promiseDetail": "El cliente reserva desde tu Instagram o página web a cualquier hora. El sistema confirma, recuerda y tú atiendes.",
+    "ads": [
+      "Un salón que no deja agendar online en horario no laboral pierde clientes que no esperan hasta el lunes para llamar. BeautyAgenda recibe esas reservas sola.",
+      "Silla vacía por cliente que olvidó el turno es pérdida directa. El recordatorio automático 24 horas antes la llena antes de que te des cuenta.",
+      "Toda la agenda de tu equipo en un solo panel. Sin coordinación por WhatsApp, sin sillas dobladas y sin recordar manualmente a cada cliente."
+    ],
+    "audience": [
+      "Dueño de salón de belleza que gestiona turnos por WhatsApp o teléfono y quiere automatizar el proceso",
+      "Salón con varios profesionales que necesita visibilidad de la agenda de todo el equipo en un solo lugar",
+      "Estética o peluquería que pierde clientes y dinero por ausentismo y quiere reducirlo con recordatorios automáticos"
+    ],
+    "pains": [
+      "Pasa tiempo gestionando reservas por WhatsApp cuando debería estar atendiendo clientes o administrando el negocio",
+      "Tiene sillas vacías frecuentemente porque clientes olvidan el turno y no avisan con tiempo para rellenarlo",
+      "No tiene visibilidad rápida de la agenda completa del equipo y hay choques de horarios y sobrecargas",
+      "Pierde clientes que intentan agendar fuera del horario y no pueden hacerlo sin llamar o escribir"
+    ]
+  },
+  {
+    "id": 37,
+    "level": "NIVEL 2",
+    "category": "AUTOMATIZACIÓN DE MARKETING",
+    "icon": "🤖",
+    "title": "DirectBot — Respuestas Automáticas al DM de Instagram con Filtro de Intención Real",
+    "description": "Una app que responde mensajes directos de Instagram automáticamente a partir de palabras clave, disparadores en historias y comentarios. Filtra quien tiene interés real de quien solo curiosea, envía el enlace de venta en el momento correcto y mantiene la conversación activa a cualquier hora, incluso mientras duermes.",
+    "promise": "Tu Instagram vendiendo y respondiendo a las 3 de la mañana. Sin que nadie del equipo esté despierto.",
+    "promiseDetail": "Configuras las palabras clave y los flujos una vez. El bot responde, filtra y envía el enlace de venta cuando el interés es real.",
+    "ads": [
+      "Cada DM sin respuesta rápida es un cliente que siguió scrolleando y compró otra cosa. DirectBot responde en segundos, las 24 horas.",
+      "Responder DMs de Instagram manualmente no escala. Cuando tienes 200 mensajes después de una historia viral, este bot ya los respondió todos.",
+      "Palabras clave detectadas. Intención real identificada. Enlace de venta enviado en el momento correcto. Sin que nadie del equipo tenga que hacer nada."
+    ],
+    "audience": [
+      "Creador de contenido o infoproductor que genera interés en Instagram pero pierde ventas por respuesta lenta",
+      "Negocio con presencia activa en Instagram que recibe muchos mensajes directos y no puede responderlos todos a tiempo",
+      "Vendedor que usa historias de Instagram para generar demanda y quiere capturar ese interés de forma automática"
+    ],
+    "pains": [
+      "Recibe mensajes directos de interesados y muchos quedan sin respuesta por horas o días, perdiendo la venta",
+      "No puede responder DMs fuera del horario laboral y sabe que está perdiendo prospectos calientes por eso",
+      "Usa Instagram para generar interés pero el paso del DM a la venta es manual, lento e inconsistente",
+      "Quiere escalar las ventas por Instagram pero el proceso actual de respuesta manual no crece con el negocio"
+    ]
+  },
+  {
+    "id": 38,
+    "level": "NIVEL 2",
+    "category": "CREADORES DE CONTENIDO",
+    "icon": "📸",
+    "title": "MiniaturaIA — Generador de Portadas para Videos que Aumenta el CTR con A/B Automático",
+    "description": "Una app donde ingresas el título del video y el nicho, y la IA propone diseño, frase de impacto y estilo visual probados para aumentar el CTR. Incluye recorte de fondo automático, editor simple de texto y color, y prueba A/B entre dos versiones de portada para publicar la que promete más clics.",
+    "promise": "La portada que hace clic antes de que el título se lea. Con IA, A/B automático y en minutos.",
+    "promiseDetail": "Ingresas el tema, la IA propone el diseño, ajustas lo que quieres y pruebas dos versiones. La que convierte más, gana.",
+    "ads": [
+      "El 90% de la decisión de ver o no ver un video ocurre en la portada. MiniaturaIA diseña la portada que para el scroll.",
+      "Pagar un diseñador por cada portada de video no escala. Esta app genera la portada, el texto de impacto y el test A/B en minutos.",
+      "CTR bajo en YouTube o en redes no es problema de contenido. Es problema de portada. MiniaturaIA lo resuelve con IA y prueba A/B automática."
+    ],
+    "audience": [
+      "Youtuber o creador de video que quiere mejorar el CTR sin depender de diseñadores para cada publicación",
+      "Infoproductor que usa video en su estrategia de contenido y quiere portadas que detengan el scroll",
+      "Agencia o freelancer que produce contenido en video para clientes y necesita eficiencia en la parte visual"
+    ],
+    "pains": [
+      "Sus videos tienen buen contenido pero pocas vistas porque la portada no genera suficiente curiosidad para hacer clic",
+      "Paga diseñadores para las portadas o las hace manualmente, lo que consume tiempo y no siempre da el resultado esperado",
+      "No sabe cuál de dos opciones de portada va a funcionar mejor y publica la que más le gusta, no la que más convierte",
+      "Su CTR en YouTube o en redes es bajo y sabe que mejorar la portada impactaría directamente las vistas"
+    ]
+  },
+  {
+    "id": 39,
+    "level": "NIVEL 2",
+    "category": "JURÍDICO & ABOGACÍA",
+    "icon": "⚖️",
+    "title": "AdvoBase — CRM Jurídico Completo para Abogados que Trabajan Solos o en Equipos Chicos",
+    "description": "Una app donde el perfil de cada cliente muestra en un solo lugar: datos de registro, procesos asociados, documentos adjuntos, historial de contacto y honorarios. Todo el equipo ve la misma información actualizada. Búsqueda por nombre, documento o número de proceso. Sin buscar en tres sistemas distintos para armar la historia de un cliente.",
+    "promise": "Toda la información de cada cliente y cada proceso en un solo lugar. Siempre actualizada para todo el equipo.",
+    "promiseDetail": "Buscas por nombre, documento o número de proceso y encuentras todo: historial, documentos, plazos y honorarios.",
+    "ads": [
+      "Un abogado que busca información del cliente en correos, WhatsApp y carpetas físicas al mismo tiempo no está gestionando su despacho. Está perdiendo tiempo que el cliente paga.",
+      "AdvoBase centraliza todo: datos del cliente, procesos, documentos, historial de contacto y honorarios. Un lugar. Un equipo. Siempre actualizado.",
+      "Cuando el cliente llama preguntando por su caso, no deberías tardar 5 minutos en encontrar la información. AdvoBase la pone en 5 segundos."
+    ],
+    "audience": [
+      "Abogado independiente que gestiona su cartera de clientes en carpetas físicas, correos y planillas sin sistema unificado",
+      "Despacho jurídico pequeño que necesita que todo el equipo vea la misma información de los clientes en tiempo real",
+      "Abogado que quiere profesionalizar la gestión de su despacho sin invertir en software corporativo costoso"
+    ],
+    "pains": [
+      "Pierde tiempo buscando información del cliente en correos, carpetas físicas y WhatsApp antes de cada consulta",
+      "No tiene visibilidad rápida de los honorarios pendientes y el estado financiero de cada asunto activo",
+      "Cuando un colega cubre un proceso, tiene que explicar toda la historia porque no hay sistema centralizado",
+      "La gestión actual de documentos y plazos depende de que alguien del equipo recuerde, no de un sistema que alerte"
+    ]
+  },
+  {
+    "id": 40,
+    "level": "NIVEL 2",
+    "category": "FITNESS & PERSONAL",
+    "icon": "🏋️",
+    "title": "FichaPro — Planes de Entrenamiento Digitales con Seguimiento de Carga y Feedback del Alumno",
+    "description": "Una app para entrenadores donde se arman fichas de entrenamiento arrastrando ejercicios de una biblioteca con videos demostrativos. El alumno accede por link o app, registra el entrenamiento del día y comenta la dificultad. El entrenador sigue el progreso y la carga de todos sus alumnos en un panel, sin planillas ni PDF estáticos.",
+    "promise": "Fichas digitales que el alumno sigue, el entrenador monitorea y la relación profesional mejora.",
+    "promiseDetail": "Creas la ficha, se la envías por link, el alumno registra cada sesión y tú ves el progreso de todos en un panel.",
+    "ads": [
+      "Un PDF de entrenamiento que nadie sigue no es coaching. FichaPro convierte la ficha en un sistema de seguimiento donde el entrenador ve qué pasa realmente.",
+      "El entrenador que sabe qué cargó su alumno en el último entreno puede prescribir mejor. FichaPro registra cada sesión y la pone en el panel del profesional.",
+      "Biblioteca de ejercicios con video. Ficha enviada por link. Seguimiento de carga. Feedback del alumno. Un panel para todos los alumnos. FichaPro."
+    ],
+    "audience": [
+      "Entrenador personal que gestiona alumnos con PDF o planillas y quiere una herramienta más profesional y funcional",
+      "Coach de fitness online que necesita hacer seguimiento real del progreso de alumnos sin llamadas o mensajes manuales",
+      "Profesional de fitness que quiere diferenciarse con una herramienta profesional que justifique tarifas más altas"
+    ],
+    "pains": [
+      "Envía las fichas en PDF que los alumnos no siguen o no registran, lo que hace imposible un seguimiento real",
+      "No sabe qué cargó cada alumno en sus últimas sesiones y no puede prescribir con precisión por esa razón",
+      "Hace seguimiento por WhatsApp preguntando cómo fue el entreno, lo que no escala cuando tiene muchos alumnos",
+      "Sus fichas actuales no tienen videos demostrativos y los alumnos hacen los ejercicios incorrectamente sin saberlo"
+    ]
+  },
+  {
+    "id": 41,
+    "level": "NIVEL 2",
+    "category": "PET SHOPS & VETERINARIOS",
+    "icon": "🐾",
+    "title": "VetAgenda — Agendamiento Online para Veterinarias con Historia Clínica por Mascota",
+    "description": "Una app donde el dueño agenda el servicio, elige profesional y horario, y recibe confirmación y recordatorio automático. Cada mascota tiene perfil digital con historial de consultas, vacunas y tratamientos. El profesional registra la consulta en la misma pantalla donde ve toda la historia anterior del animal.",
+    "promise": "Cada mascota con su historia clínica. Cada dueño con su recordatorio. Tú atendiendo, no administrando.",
+    "promiseDetail": "El dueño agenda solo, el sistema recuerda. Cuando llega, la historia del animal ya está en pantalla esperando.",
+    "ads": [
+      "El dueño de mascota que tiene que llamar para agendar en horario de oficina ya eligió otra veterinaria que acepta citas online. VetAgenda cambia eso.",
+      "Historia clínica digital por mascota. Agendamiento online 24/7. Recordatorio automático por WhatsApp. Todo en una sola app para veterinarias.",
+      "¿Cuánto tiempo pierde tu equipo coordinando citas por teléfono y buscando fichas físicas? VetAgenda elimina ambas cosas."
+    ],
+    "audience": [
+      "Veterinario independiente o clínica veterinaria que gestiona agenda y fichas de forma manual o en papel",
+      "Pet shop con servicio de baño y peluquería que necesita sistema de reservas sin depender del teléfono",
+      "Veterinaria que quiere ofrecer historia clínica digital y agendamiento online como ventaja competitiva"
+    ],
+    "pains": [
+      "Pierde tiempo coordinando citas por teléfono o WhatsApp cuando podría estar atendiendo animales",
+      "Las historias clínicas en papel se pierden, se dañan o son difíciles de encontrar cuando el cliente llega",
+      "No tiene recordatorios automáticos para vacunas o revisiones y pierde clientes que simplemente olvidan volver",
+      "No puede brindar una experiencia profesional moderna porque sus procesos administrativos son todos manuales"
+    ]
+  },
+  {
+    "id": 42,
+    "level": "NIVEL 2",
+    "category": "RESTAURANTES & DELIVERY",
+    "icon": "🍔",
+    "title": "MenuQR — Carta Digital con Pedido Desde la Mesa y Panel en Tiempo Real para Cocina",
+    "description": "Una app donde el cliente apunta el celular al código QR de la mesa, abre el menú actualizado con fotos y descripción, y hace el pedido directamente desde su teléfono. El pedido cae en el panel de cocina en tiempo real. Cambios de precio y baja de ítems agotados se aplican al instante sin imprimir nada.",
+    "promise": "El cliente pide desde el celular, cocina recibe al instante y la carta siempre está actualizada.",
+    "promiseDetail": "Un código QR en la mesa reemplaza la carta impresa, la orden verbal y el error de comunicación entre sala y cocina.",
+    "ads": [
+      "Carta impresa que cambia de precio cada mes es dinero tirado en imprenta y confusión para el cliente. MenuQR la actualiza en segundos.",
+      "El pedido que viaja de la mesa al mozo a la cocina tiene tres oportunidades de llegar mal. MenuQR lo elimina: el cliente pide, cocina recibe.",
+      "Menú con fotos. Pedido desde el celular. Panel de cocina en tiempo real. Cambios al instante. Todo con un código QR en cada mesa."
+    ],
+    "audience": [
+      "Dueño de restaurante que quiere modernizar la experiencia sin grandes inversiones en tecnología",
+      "Negocio gastronómico con carta que cambia frecuentemente y gasta en imprimir actualizaciones constantemente",
+      "Restaurante que pierde eficiencia por errores de comunicación entre sala y cocina en los pedidos"
+    ],
+    "pains": [
+      "Gasta dinero en imprimir cartas actualizadas cada vez que cambia un precio o se agota un plato",
+      "Los errores en los pedidos por comunicación entre sala y cocina generan desperdicio de comida y malas experiencias",
+      "Clientes esperan demasiado tiempo para ser atendidos porque el mozo no llega a la mesa a tiempo",
+      "Su carta actual no tiene fotos y los clientes piden lo mismo de siempre porque no conocen todas las opciones"
+    ]
+  },
+  {
+    "id": 43,
+    "level": "NIVEL 2",
+    "category": "LOGÍSTICA & ENTREGAS",
+    "icon": "🚛",
+    "title": "RutaMax — Optimizador de Rutas de Entrega con Tracking en Vivo para el Cliente",
+    "description": "Una app que carga las direcciones de entrega del día y arma el orden óptimo considerando el tráfico en tiempo real. La navegación abre directo en Google Maps o Waze. El cliente recibe un link para seguir la entrega en vivo, con hora estimada de llegada. El panel muestra todas las entregas en marcha sin llamar a nadie.",
+    "promise": "Más entregas en menos tiempo y clientes que saben cuándo llega su pedido. Sin llamadas, sin preguntas.",
+    "promiseDetail": "Cargas las direcciones, el sistema define la ruta. El repartidor navega, el cliente sigue en vivo y tú ves todo en el panel.",
+    "ads": [
+      "El repartidor que sigue el orden en que llegaron los pedidos desperdicia tiempo y combustible. RutaMax arma la ruta óptima en segundos.",
+      "Clientes que preguntan dónde está su pedido son clientes que no tienen tracking. RutaMax envía el link de seguimiento en vivo automáticamente.",
+      "Más entregas por día con el mismo repartidor. Menos llamadas de clientes preguntando dónde está su pedido. Un panel para verlo todo."
+    ],
+    "audience": [
+      "Negocio de delivery o distribución que quiere optimizar las rutas y reducir el tiempo y costo de cada entrega",
+      "E-commerce o tienda física que hace sus propias entregas y quiere mejorar la experiencia del cliente con tracking",
+      "Gestor de logística que coordina varios repartidores y necesita visibilidad total sin llamadas constantes"
+    ],
+    "pains": [
+      "Sus repartidores siguen rutas ineficientes porque no tienen sistema de optimización y eso aumenta el costo por entrega",
+      "Recibe llamadas constantes de clientes preguntando dónde está su pedido porque no hay sistema de tracking",
+      "No tiene visibilidad del estado de las entregas en tiempo real y depende de llamar a los repartidores para saber",
+      "Sus clientes comparan la experiencia de entrega con la de marketplaces grandes y encuentran la suya inferior"
+    ]
+  },
+  {
+    "id": 44,
+    "level": "NIVEL 2",
+    "category": "IA & AUTOMATIZACIÓN",
+    "icon": "🎙️",
+    "title": "AudioResumen — Transcripción de Reuniones con IA que Extrae Decisiones y Tareas Solo",
+    "description": "Una app donde envías el audio de la reunión o grabas directo, y recibes la transcripción completa en español, el resumen con puntos clave y la lista de tareas con responsable asignado. Búsqueda por palabra clave dentro de la transcripción para encontrar cualquier fragmento en segundos.",
+    "promise": "Acta de reunión lista en minutos, con decisiones y tareas extraídas por IA. Sin tomar notas, sin reproducir todo de nuevo.",
+    "promiseDetail": "Grabas o subes el audio. La IA transcribe, resume y saca las tareas. Tú revisas y distribuyes. En 10 minutos está hecho.",
+    "ads": [
+      "Reproducir una reunión de 90 minutos para encontrar lo que se decidió es tiempo perdido. AudioResumen extrae las decisiones y tareas en minutos.",
+      "Tomar notas en una reunión y participar de ella al mismo tiempo significa hacer mal ambas cosas. AudioResumen hace las notas. Tú participas.",
+      "Transcripción completa. Resumen ejecutivo. Lista de tareas con responsable. Todo de una reunión de audio, generado por IA en minutos."
+    ],
+    "audience": [
+      "Gerente o profesional que tiene muchas reuniones y pierde tiempo reproduciendo audios para recordar lo que se decidió",
+      "Equipo que trabaja de forma distribuida y necesita que las decisiones de cada reunión queden documentadas y accesibles",
+      "Emprendedor que graba ideas, reuniones con clientes y sesiones de trabajo y quiere extraer lo accionable sin esfuerzo"
+    ],
+    "pains": [
+      "Sale de reuniones sin acta y luego pierde tiempo discutiendo qué se decidió exactamente y quién se comprometió a qué",
+      "Graba reuniones con clientes pero reproducirlas para tomar notas le toma tanto tiempo como la reunión misma",
+      "Tomar notas en reuniones le hace perder el hilo de la conversación y participar menos de lo que debería",
+      "Las decisiones de las reuniones no quedan documentadas y eso genera confusión y retrabajo en el equipo"
+    ]
+  },
+  {
+    "id": 45,
+    "level": "NIVEL 2",
+    "category": "IA & AUTOMATIZACIÓN",
+    "icon": "📲",
+    "title": "PostInteligente — Calendario de Contenido con IA que Genera, Programa y Publica Solo",
+    "description": "Una app donde defines el nicho, el tono de voz y la frecuencia, y la IA genera posts con texto y sugerencia de imagen en un calendario listo para aprobar y programar. Publicación directa a Instagram, LinkedIn y Facebook. Sin abrir la semana sin ideas, sin depender de la inspiración del momento.",
+    "promise": "La semana de contenido lista el domingo. Generada por IA, aprobada por ti, publicada sola.",
+    "promiseDetail": "Defines el nicho y el tono, la IA llena el calendario, tú apruebas lo que quieres publicar y el resto sale automático.",
+    "ads": [
+      "Abrir la semana sin saber qué publicar es el estado natural de quien no tiene calendario de contenido. PostInteligente genera el calendario con IA.",
+      "La consistencia en redes no depende de inspiración. Depende de un sistema. Este sistema genera el contenido de la semana y lo programa para publicarse solo.",
+      "Nicho. Tono de voz. Frecuencia. Con eso, PostInteligente arma el calendario de contenido, genera los posts y los programa en Instagram, LinkedIn y Facebook."
+    ],
+    "audience": [
+      "Emprendedor o profesional que sabe que debe publicar contenido consistente pero siempre lo pospone por falta de ideas",
+      "Negocio con presencia en redes que no tiene equipo de marketing y necesita automatizar la generación y publicación de contenido",
+      "Agencia de marketing que quiere escalar la gestión de contenido para múltiples clientes sin multiplicar el equipo"
+    ],
+    "pains": [
+      "Pasa semanas sin publicar en redes porque no tiene ideas y cuando las tiene no tiene tiempo de convertirlas en posts",
+      "Su presencia en redes es inconsistente y sabe que eso afecta el algoritmo y la confianza de su audiencia",
+      "Paga a alguien para gestionar el contenido pero el costo es alto y el resultado tampoco es el que espera",
+      "Genera buenas ideas pero se queda en la idea porque el proceso de convertirla en post publicado le lleva demasiado tiempo"
+    ]
+  },
+  {
+    "id": 46,
+    "level": "NIVEL 2",
+    "category": "EVENTOS & FIESTAS",
+    "icon": "🎉",
+    "title": "InviteClick — Invitaciones Digitales con Confirmación de Asistencia y Panel en Tiempo Real",
+    "description": "Una app donde personalizas la invitación con foto, color y música, y la envías por WhatsApp o correo. Los invitados confirman asistencia y acompañantes directamente desde el link, sin descargar nada. El panel muestra en tiempo real quién confirmó, quién declinó y quién no respondió, para calcular el banquete con número real.",
+    "promise": "Saber exactamente cuántos llegan antes de preparar la comida. Con invitación digital y confirmación sin llamar a nadie.",
+    "promiseDetail": "Envías el link, los invitados confirman desde el celular y tú ves el conteo actualizado en tiempo real. Sin perseguir respuestas.",
+    "ads": [
+      "Preparar comida para 80 personas cuando confirmaron 60 y llegaron 95 es un problema de gestión de invitaciones. InviteClick lo resuelve.",
+      "Perseguir confirmaciones de asistencia por WhatsApp individualmente es la parte más agotadora de organizar un evento. Esta app lo hace sola.",
+      "Invitación digital con foto, música y colores personalizados. Link de confirmación de asistencia. Panel en tiempo real. Todo para cualquier tipo de evento."
+    ],
+    "audience": [
+      "Persona que organiza eventos sociales o familiares y necesita saber exactamente cuántos asistirán con anticipación",
+      "Organizador de eventos profesional que quiere reemplazar la logística de confirmación manual por un sistema automático",
+      "Empresa que organiza eventos corporativos y necesita gestionar confirmaciones y datos de asistentes de forma centralizada"
+    ],
+    "pains": [
+      "No sabe cuánta gente realmente va a asistir hasta el último momento y eso complica la planificación del catering y el espacio",
+      "Persigue confirmaciones de asistencia por WhatsApp individualmente, lo que toma horas y genera conversaciones incómodas",
+      "Las invitaciones impresas o los eventos de Facebook no le dan la información de asistencia que necesita para planificar bien",
+      "Ha sobrestimado o subestimado asistentes en eventos anteriores y eso generó desperdicio de dinero o falta de recursos"
+    ]
+  },
+  {
+    "id": 47,
+    "level": "NIVEL 2",
+    "category": "RR. HH. & RECLUTAMIENTO",
+    "icon": "👥",
+    "title": "FiltroCV — Ranking Automático de Candidatos con IA a partir de los Requisitos de la Vacante",
+    "description": "Una app que lee y organiza currículums automáticamente a partir de los requisitos de la vacante. Carga en lote los archivos PDF o DOCX, el sistema extrae experiencia, habilidades y formación, los cruza con los requisitos y asigna una nota de afinidad de 0 a 100. Ranking de candidatos más prometedores en minutos, no en días.",
+    "promise": "De 200 CVs al ranking de los 10 mejores candidatos en minutos. La IA hace el filtro, tú haces la entrevista.",
+    "promiseDetail": "Subes los CVs en lote, defines los requisitos de la vacante y el sistema rankea a los candidatos por afinidad. Sin leer cada CV manualmente.",
+    "ads": [
+      "Leer 200 CVs manualmente para encontrar los 10 más prometedores es tiempo que ningún reclutador debería perder. FiltroCV lo hace en minutos.",
+      "La IA lee el CV, lo cruza con los requisitos de la vacante y le asigna una nota de 0 a 100. Tú entrevistas a los que la IA recomendó. Así de simple.",
+      "El primer filtro de CVs es el más tedioso y el más subjetivo. FiltroCV lo hace consistente, rápido y basado en los criterios que tú defines."
+    ],
+    "audience": [
+      "Reclutador o responsable de RRHH que procesa grandes volúmenes de CVs para cada vacante y quiere automatizar el primer filtro",
+      "Empresa o startup que está creciendo y necesita contratar rápido sin un equipo de reclutamiento grande",
+      "Agencia de headhunting que quiere escalar la capacidad de procesar candidatos sin multiplicar el personal"
+    ],
+    "pains": [
+      "Pasa días leyendo CVs manualmente para encontrar los candidatos que cumplen con los requisitos básicos de la vacante",
+      "El primer filtro de CVs es subjetivo e inconsistente cuando lo hacen diferentes personas del equipo",
+      "No puede procesar muchas vacantes en paralelo porque el tiempo de revisión de CVs no escala con el equipo actual",
+      "Los mejores candidatos se pierden porque el proceso de revisión es tan lento que ya aceptaron otra oferta"
+    ]
+  },
+  {
+    "id": 48,
+    "level": "NIVEL 2",
+    "category": "INMOBILIARIO",
+    "icon": "🏠",
+    "title": "LeadCorretor — Calificador de Leads de Bienes Raíces por WhatsApp con IA",
+    "description": "Una app con chatbot que atiende al lead en WhatsApp, pregunta presupuesto, zona, tipo de inmueble y urgencia, y clasifica a cada uno en caliente, tibio o frío antes de que llegue al agente. Notificación inmediata cuando aparece un lead caliente. Panel organizado por clasificación para no gastar la tarde con quienes solo curiosean.",
+    "promise": "Solo hablas con quien está listo para cerrar. El bot califica al resto antes de que llegue a ti.",
+    "promiseDetail": "El lead escribe, el bot pregunta y clasifica. Tú recibes la alerta del lead caliente y enfocas tu tiempo donde vale.",
+    "ads": [
+      "El 80% del tiempo de un agente inmobiliario se va en leads fríos que solo estaban curioseando. LeadCorretor los filtra antes de que lleguen a ti.",
+      "Un lead caliente que no recibe respuesta en menos de 5 minutos ya llamó a otro agente. Este sistema te avisa en el momento en que aparece.",
+      "El chatbot pregunta presupuesto, zona, tipo de inmueble y urgencia. Clasifica. Te avisa. Tú solo hablas con quien está listo para cerrar."
+    ],
+    "audience": [
+      "Agente inmobiliario que recibe muchos leads pero pierde tiempo hablando con quienes no están listos para comprar",
+      "Agencia inmobiliaria que quiere mejorar la eficiencia de su equipo calificando mejor a los leads antes del primer contacto",
+      "Corredor independiente que no puede atender todos los leads al mismo tiempo y pierde oportunidades por respuesta lenta"
+    ],
+    "pains": [
+      "Pasa horas hablando con personas que están mirando y no tienen intención real de comprar o arrendar en el corto plazo",
+      "Leads calientes no reciben respuesta rápida porque están mezclados con decenas de consultas frías en el mismo chat",
+      "No tiene sistema para calificar leads de forma consistente y cada agente lo hace con criterios diferentes",
+      "Pierde leads calientes frente a competidores que responden más rápido porque no tiene sistema de alerta y priorización"
+    ]
+  },
+  {
+    "id": 49,
+    "level": "NIVEL 2",
+    "category": "FREELANCERS & AGENCIAS",
+    "icon": "📄",
+    "title": "PropuestaRápida — Generador de Propuestas Comerciales con IA y Firma Digital Integrada",
+    "description": "Una app donde ingresas los datos del proyecto y del cliente, y la IA arma la propuesta con alcance, cronograma, montos y condiciones en minutos. Editor de arrastrar y soltar para personalizar. Seguimiento de apertura del documento y firma digital integrada. Del interés del cliente a la propuesta enviada mientras el interés sigue caliente.",
+    "promise": "Propuesta enviada en minutos mientras el cliente sigue caliente. Con IA, firma digital y seguimiento de apertura.",
+    "promiseDetail": "Ingresas los datos, la IA arma la propuesta, ajustas con el editor y envías. Ves cuándo la abre y recibes la firma sin imprimir nada.",
+    "ads": [
+      "El cliente que pregunta el precio hoy y recibe la propuesta tres días después ya está evaluando a tu competidor. PropuestaRápida la genera en minutos.",
+      "Propuesta generada por IA. Editor de arrastre. Seguimiento de apertura. Firma digital. Todo lo que necesitas para cerrar sin demoras.",
+      "Sabes en qué momento el cliente abrió tu propuesta. Eso te da el momento exacto para hacer el seguimiento. PropuestaRápida te lo avisa."
+    ],
+    "audience": [
+      "Freelancer o consultor que pierde horas armando propuestas desde cero para cada cliente potencial",
+      "Agencia que necesita generar propuestas consistentes y rápidas sin que cada cuenta ejecutiva invente el formato",
+      "Proveedor de servicios B2B que quiere acortar el tiempo entre el interés del cliente y la firma del contrato"
+    ],
+    "pains": [
+      "Pasa horas armando la propuesta para un cliente que luego decide no continuar, sintiendo que ese tiempo se perdió",
+      "Sus propuestas no tienen un formato consistente y a veces se ven poco profesionales comparadas con las de la competencia",
+      "No sabe si el cliente leyó la propuesta o no, lo que le genera incertidumbre sobre cuándo hacer el seguimiento",
+      "El proceso desde la consulta del cliente hasta la propuesta enviada toma demasiados días y pierde momentum de venta"
+    ]
+  },
+  {
+    "id": 50,
+    "level": "NIVEL 2",
+    "category": "FITNESS & PERSONAL",
+    "icon": "💪",
+    "title": "TurnoGym — Agendamiento de Clases con Control de Cupo y Lista de Espera Automática",
+    "description": "Una app donde el alumno ve los horarios disponibles, agenda la clase con un toque y recibe un recordatorio automático. Control de cupo máximo por horario y profesional. Lista de espera automática cuando el horario se llena. El entrenador ve la grilla completa de todos los horarios sin gestionar nada por mensajes.",
+    "promise": "Sin clases con cupo reventado, sin lista de espera manual, sin agenda por WhatsApp. Todo automatizado.",
+    "promiseDetail": "El alumno agenda, el sistema controla el cupo, la lista de espera entra sola y el recordatorio sale automático.",
+    "ads": [
+      "Gestionar el cupo de 10 horarios distintos por WhatsApp es ineficiente y fuente de errores. TurnoGym lo hace automático.",
+      "Cuando el horario se llena, la lista de espera entra sola. Cuando alguien cancela, el siguiente en la lista recibe el aviso. Sin que nadie haga nada.",
+      "El alumno que agenda online confirma implícitamente su asistencia. El recordatorio automático la refuerza. Menos ausencias, misma agenda."
+    ],
+    "audience": [
+      "Entrenador personal o box que gestiona el cupo de sus clases por WhatsApp y quiere automatizarlo",
+      "Estudio de pilates, yoga o functional que tiene varios horarios y necesita control de cupo sin trabajo manual",
+      "Profesional de fitness que quiere que sus alumnos puedan agendar solos sin depender de su disponibilidad para responder"
+    ],
+    "pains": [
+      "Gestiona el cupo de las clases por WhatsApp y a veces hay más personas de las que puede atender",
+      "No tiene lista de espera automática y cuando alguien cancela el cupo queda vacío sin que los interesados se enteren",
+      "Sus alumnos tienen que esperar su respuesta para confirmar si hay lugar en la clase y eso genera fricciones",
+      "No tiene visibilidad rápida de cuántos alumnos tienen cada horario de la semana sin revisar manualmente los chats"
+    ]
+  }
+]

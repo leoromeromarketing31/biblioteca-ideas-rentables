@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: '48 Playbooks para Crecer Online',
+  title: 'Cofre de 50 Ideas de Mini-Apps Rentables',
   description:
-    'Una biblioteca práctica de ideas accionables para producto, marketing y operaciones.',
+    'Ideas seleccionadas, mejoradas y con copy listo para lanzar hoy.',
 };
 
 export default function RootLayout({
@@ -33,4 +33,3 @@ export default function RootLayout({
     </html>
   );
 }
-
